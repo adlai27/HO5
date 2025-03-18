@@ -1,0 +1,835 @@
+label	col_00	col_01	col_02	col_03	col_04	col_05	col_06	col_07	col_08	col_09	col_10	col_11	col_12	col_13	col_14
+2	852 m^3	0.1976	ferret	cOMPUTER gAME dESIGN	1.1539	852	MOTOR SPORTS	1057 kg/s	695	194	TENNIS	0.0689	0.5269	522	0.9031
+1	1292 m^3	0.9112	dog	Data Science	0.0172	545	boxing	871 kg/s	1218	127	soccer	0.6179	0.8914	765	0.5337
+3	401 m^3	0.5994	chicken	Human Computer Interaction	0.7812	907	motor sports	1304 kg/s	1029	66	tennis	0.9529	1.243	604	0.8488
+4	-459 m^3	1.1289	reptile	Computer Engineering, Bioengineering, Computer Science	0.857	171	ice hockey	-1 kg/s	267	1205	tennis	1.2144	0.4116	1024	0.9313
+3	383 m^3	0.1356	chicken	Natural Language Processing	0.4691	838	boxing	767 kg/s	992	1087	boxing	1.0093	0.9663	794	0.8494
+5	403 m^3	0.4674	hamster	Robotics Engineering	1.3494	618	running	291 kg/s	671	1236	badminton	0.33	0.7463	604	1.0303
+3	-95 m^3	0.0985	chicken	Human Computer Interaction	1.191	1260	motor sports	1008 kg/s	685	549	BOXING, FOOTBALL	0.9648	0.9413	1365	0.5235
+5	1009 m^3	0.8006	guinea pig	Technology and Information Management, Electrical Engineering	0.8144	721	?	-81 kg/s	1639	1241	badminton	0.8435	0.4794	1118	0.8551
+3	326 m^3	-0.1938	chicken	Natural Language Processing	0.9706	1340	motor sports	500 kg/s	997	1060	motor sports	0.8589	0.5181	1104	1.0414
+0	1411 m^3	0.5694	cat	Computational Media	1.0626	1421	ice hockey	674 kg/s	1039	190	basketball	1.0695	0.3245	429	0.6755
+3	-190 m^3	0.4576	chicken	Human Computer Interaction	0.7979	171	motor sports	1045 kg/s	502	146	football	1.4582	0.8153	1402	0.9993
+0	1048 m^3	0.7567	fish	Computational Media, Statistics	0.5825	1515	volleyball	653 kg/s	1092	113	basketball	0.9248	0.0007	732	1.2974
+3	611 m^3	0.6629	chicken	Natural Language Processing	1.7094	826	motor sports	1128 kg/s	None	833	boxing	1.0143	1.0801	935	0.7429
+5	967 m^3	0.4424	guinea pig	Games and Playable Media	1.3592	1318	tennis	210 kg/s	1656	1668	golf, track & field	0.5104	0.8457	1170	0.7453
+2	?	0.2143	ferret	Computer Game Design	0.7727	936	badminton	811 kg/s	357	1113	volleyball, baseball	-0.2255	0.7643	410	1.1763
+2	1090 m^3	0.0242	ferret	cOMPUTER gAME dESIGN	1.2556	704	baseball	1353 kg/s	1004	787	volleyball, baseball	0.1749	0.7203	592	0.3408
+3	559 m^3	0.6284	chicken	Natural Language Processing	0.8819	622	motor sports	815 kg/s	925	1306	motor sports	0.7918	0.9131	972	1.1011
+5	1031 m^3	0.8794	guinea pig	Technology and Information Management, Games and Playable Media	0.9555	925	badminton	-94 kg/s	710	306	ice hockey, golf	0.5336	1.065	917	1.2618
+2	1489 m^3	0.3453	ferret	Computer Game Design	0.6882	626	n/a	1072 kg/s	126	310	baseball	-0.1045	0.7662	687	0.8094
+1	777 m^3	1.1167	pig	Human Computer Interaction	0.6081	783	boxing	803 kg/s	607	989	soccer	0.7766	0.3943	-107	-0.1158
+4	13 m^3	1.2914	bird	Bioengineering, Applied Mathematics, Computer Science	1.3566	98	ice hockey	476 kg/s	435	1015	track & field	1.1939	0.1438	531	0.7296
+0	1160 m^3	0.7461	rabbit	Computational Media	0.8015	1105	golf	708 kg/s	1153	-285	golf, ice hockey, track & field	1.3618	0.5875	834	1.1012
+5	642 m^3	0.6464	rat	Robotics Engineering, Technology and Information Management, Games and Playable Media	1.5099	735	SOCCER	-136 kg/s	1670	1199	ice hockey	0.5807	0.5623	618	0.5994
+5	660 m^3	0.8406	guinea pig	Electrical Engineering, Biotechnology	1.0437	1011	soccer	35 kg/s	1247	1925	golf, badminton	0.4645	0.6019	n/a	0.7736
+4	9 m^3	0.7401	bird	Bioengineering, Computer Engineering	0.4251	-306	ice hockey	652 kg/s	841	731	tennis	1.0883	0.308	994	1.1312
+3	508 m^3	0.4934	chicken	Natural Language Processing	1.3292	971	motor sports	1102 kg/s	519	914	boxing	1.1691	1.0457	847	1.1772
+5	922 m^3	0.8253	dog	Games and Playable Media, Electrical Engineering, Biotechnology	0.9619	691	tennis	286 kg/s	655		baseball	0.8775	1.0219	777	0.8834
+2	769 m^3	0.032	ferret	Computer Game Design	1.0853	1224	baseball	721 kg/s	1085	-282	running, baseball	0.2343	0.9054	449	1.0687
+0	1131 m^3	0.3034	cat	Statistics, Computational Media	0.0563	861	GOLF	688 kg/s	978	356	basketball	1.1313	0.1365	828	0.7867
+5	971 m^3	1.0374	guinea pig	Games and Playable Media, Robotics Engineering, Technology and Information Management	1.3569	502	ice hockey	151 kg/s	1499	1393	golf		1.0663	762	0.8613
+1	926 m^3	0.902	dog	Data Science	-0.0161	483	boxing	1062 kg/s	633	1003	soccer	0.9121	0.5726	-153	0.3126
+0	900 m^3	0.0369	cat	Statistics, Computational Media	0.7195	1248	volleyball	1049 kg/s	930	-193	basketball	1.0352	0.4814	1095	1.1248
+3	19 m^3	0.4829	chicken	Natural Language Processing	1.3076	982	motor sports	1032 kg/s	1035	1487	boxing	0.7095	1.2175	1306	1.0997
+0	1041 m^3	0.9784	fish	Statistics	1.5321	955	VOLLEYBALL	1008 kg/s	800	475	basketball	0.3724	-0.1344	793	0.7399
+4	-29 m^3	1.477	reptile	Bioengineering, Computer Science	1.0388	-575	ice hockey	554 kg/s	793	1608	tennis	1.1267	-0.0172	571	0.9866
+2	1070 m^3	0.2392	ferret	Computer Game Design	1.1838	1127	Baseball	823 kg/s	381	388	volleyball	0.184	0.8758	936	0.6921
+5	882 m^3	1.0039	rat	Robotics Engineering, Games and Playable Media, Biotechnology	1.0036	1239	soccer	-287 kg/s	857	1317	golf, badminton	0.2393	0.8381	922	0.9461
+0	1011 m^3	0.5668	cat	Computational Media	0.4799	734	golf	897 kg/s	1215	179	basketball	0.7814	-0.3245	812	1.1258
+5	656 m^3	0.6202	guinea pig	Biotechnology	0.9625	1046	soccer	394 kg/s	1058	685	ice hockey, badminton	0.3359	1.0046	867	1.3018
+2	1059 m^3	0.1568	CHICKEN	Computer Game Design	1.2387	718	baseball	1265 kg/s	504	157	baseball, volleyball	0.2137	0.7546	530	1.0241
+1	970 m^3	1.1009	dog	Data Science	0.3369	531	Basketball	528 kg/s	912	869	soccer	0.4973	0.5346	84	0.0973
+5	497 m^3	0.7555	rat	Electrical Engineering, Games and Playable Media	0.5207	886	soccer	282 kg/s	1405	980	track & field, ice hockey, golf	?	0.5589	459	0.702
+4	307 m^3	1.0898	reptile	Computer Engineering, Bioengineering, Applied Mathematics	0.9737	94	ice hockey	175 kg/s	604	1045	tennis	0.9087	-0.4059	786	1.0886
+2	932 m^3	0.0252	ferret	Computer Game Design	NULL	826	badminton	1124 kg/s	228	199	volleyball	-0.2124	0.9896	638	0.8631
+3	245 m^3	0.0355	chicken	Natural Language Processing	0.8167	581	motor sports	937 kg/s	2008	1180	basketball	1.13	0.6481	353	0.9864
+0	878 m^3	0.5716	cat	Statistics, Bioinformatics	0.5763	1165	volleyball	1026 kg/s	678	-428	basketball	1.1259	0.1631	749	1.2707
+0	636 m^3	0.6753	cat	Computational Media	0.9697	962	golf	1020 kg/s	1071	105	basketball	0.9332	0.2625	1065	1.06
+2	1214 m^3	-0.0365	ferret	Computer Game Design	1.8788	1058	baseball	682 kg/s	596	155	volleyball	-0.1366	0.7575	755	1.2981
+0	1042 m^3	0.4559	rabbit	Bioinformatics	1.2845	1119	volleyball	1205 kg/s	993	-135	basketball	0.4521	0.5949	772	1.3464
+4	-292 m^3	0.7649	reptile	Bioengineering, Computer Science	0.7693	367	ice hockey	925 kg/s	1077	630	tennis	0.7406	0.213	695	0.6501
+2	995 m^3	-0.0937	ferret	Computer Game Design	0.8291	1342	badminton	850 kg/s	426	591	volleyball	-0.0113	1.0705	656	1.3732
+0	850 m^3	0.0563	cat	Statistics	0.7265	1220	golf	1096 kg/s	679	-116	basketball	0.78	0.4817	804	0.8751
+0	816 m^3	0.7486	rabbit	Computational Media, Statistics	0.7422	603	Golf	774 kg/s	658	-350	basketball	1.3676	0.3215	1063	0.9568
+1	897 m^3	1.0466	pig	Data Science	-0.1854	566	boxing	1319 kg/s	1096	1109	soccer	1.0479	0.7247	110	0.178
+0	1043 m^3	0.6786	fish	Bioinformatics	0.7262	921	golf	761 kg/s	435	-574	basketball	0.9961	0.1542	681	0.5454
+0	1125 m^3	0.9032	cat	STATISTICS	0.3641	889	volleyball	892 kg/s	819	-333	basketball	0.7636	0.5412	844	1.0514
+3	389 m^3	0.039	chicken	Human Computer Interaction	0.8283	1077	motor sports	818 kg/s	1179	694	boxing, motor sports	0.5866	1.1192	689	0.6904
+5	563 m^3	0.6389	guinea pig	robotics engineering, games and playable media, electrical engineering, biotechnology	0.6616	512	tennis	6 kg/s	871	515	track & field	0.3106	0.9718	792	0.7444
+0	1453 m^3	0.8775	fish	Data Science	1.0713	1386	golf	952 kg/s	418	-367	basketball	1.0931	0.5263	890	1.3606
+4	55 m^3	1.0041	bird	Bioengineering, Applied Mathematics	0.6168	530	volleyball	268 kg/s	1398	1350	tennis	0.675	0.1535	489	0.7828
+2	1604 m^3	0.0518		Computer Game Design	1.2761	764	baseball	1328 kg/s	399	828	volleyball, running	-0.1073	0.8889	714	1.1923
+3	578 m^3	0.582	chicken	Natural Language Processing	0.6377	1158	motor sports	673 kg/s	1049	1175	football, boxing	0.9558	0.7198	491	0.9106
+3	330 m^3	0.081	chicken	Natural Language Processing	1.1644	1038	motor sports	1173 kg/s	1242	1315	boxing, motor sports	0.4856	1.3196	798	1.128
+1	952 m^3	1.3402	pig	Data Science	0.4244	188	track & field	912 kg/s	1207	952	soccer	0.8577	0.4247	331	0.2746
+1	1111 m^3	0.8609	dog	Data Science	-0.2378	1138	boxing	1245 kg/s	1096	896	soccer	1.5039	0.7196	566	0.7336
+4	109 m^3	0.9536	reptile	Computer Engineering	0.9315	75	running	478 kg/s	1149	1467	tennis	1.0003	-0.2001	569	0.6775
+1	1184 m^3	1.1813	dog	Data Science	0.335	544	boxing	1115 kg/s	1473	719	soccer	0.8057	0.9164	298	-0.3482
+0	1029 m^3	0.6972	rabbit	Computational Media, Statistics	0.391	1061	volleyball	1159 kg/s	1255	-34	basketball	0.6839	0.2677	518	1.0769
+0	1028 m^3	0.1979	rabbit	Computational Media	0.6575	1326	motor sports	1336 kg/s	645	369	basketball	0.6956	0.1316	401	0.4776
+3	381 m^3	-0.0254	chicken	Natural Language Processing	0.9571	1290	motor sports	1089 kg/s	1192	956	motor sports, boxing	1.0788	1.1466	720	0.9621
+1	718 m^3	1.0448	pig	Data Science	-0.1062	542	basketball	915 kg/s	450	1027	SOCCER	0.661	0.892	784	-0.0085
+1	868 m^3	1.0267	dog	Data Science	0.5216	366	track & field	820 kg/s	757	917	soccer	0.5424	0.5553	543	0.4905
+4	62 m^3	1.2272	bird	Bioengineering, Computer Engineering	0.8204	151	motor sports	-136 kg/s	825	737	tennis	0.8823	0.4051	508	0.8054
+0	866 m^3	0.7768	fish	Statistics, Computational Media	1.0967	1009	golf	833 kg/s	1099	-318	basketball	0.9327	0.1148	627	1.1609
+1	1199 m^3	0.6261	guinea pig	Data Science	0.1257	655	track & field	1119 kg/s	1282	501	soccer	1.3075	0.3533	173	0.1255
+3	158 m^3	-0.0484	chicken	Human Computer Interaction	0.2088	816	motor sports	213 kg/s	1133	871	motor sports, football	1.4316	0.849	812	0.8822
+2	499 m^3	0.5084	ferret	Computer Game Design	1.006	1168	volleyball	875 kg/s	733	415	volleyball	-0.0181	1.1399	312	1.458
+0	998 m^3	0.274	cat	Statistics, Computational Media	0.2781	916	motor sports	808 kg/s	937	-188	basketball	0.7565	0.5773	672	0.719
+0	949 m^3	1.095	fish	Computational Media	0.4514	1396	volleyball	899 kg/s	1291	301	basketball	0.7605	0.1142	410	0.9975
+3	289 m^3	0.1658	chicken	Human Computer Interaction	1.1425	740	motor sports	1086 kg/s	1310	1486	motor sports, football	1.1426	1.2537	338	1.31
+5	339 m^3	0.3883	hamster	Electrical Engineering	1.0703	985	tennis	100 kg/s	1055	881	golf, badminton	0.1037	0.9312	1015	1.2146
+5	820 m^3	0.8796	guinea pig	Robotics Engineering, Biotechnology, Games and Playable Media	1.5591	892	tennis	96 kg/s	758	1089	ice hockey	0.3384	0.8563	774	1.5027
+1	1211 m^3	0.7262	pig	Data Science	-0.3411	750	ice hockey	886 kg/s	1481	474	soccer	0.8882	0.5256	300	0.191
+0	1132 m^3	0.5971	fish	Bioinformatics, Statistics	0.6884	1636	volleyball	936 kg/s	818	421	basketball	0.6231	0.4529	1082	0.9778
+0	1150 m^3	0.2388	rabbit	Statistics, Bioinformatics	0.8293	1309	volleyball	1388 kg/s	698	-297	basketball	1.1243	0.2179	506	1.4414
+5	442 m^3	0.6517	rat	Biotechnology, Robotics Engineering, Technology and Information Management	NULL	1067	tennis	97 kg/s	854	981	track & field, badminton	0.3275	1.0828	803	0.7446
+5	996 m^3	0.5261	hamster	Biotechnology	1.3034	719	boxing	115 kg/s	1018	712	ice hockey, badminton, golf	0.4311	0.5911	709	0.7176
+4	134 m^3	0.998	bird	Computer Science, Applied Mathematics	1.2413	295	ice hockey	748 kg/s	1029	1326	tennis	1.0464	-0.0253	708	0.2121
+4	-174 m^3	1.0782	reptile	Bioengineering, Computer Engineering, Computer Science	0.401	-269	ice hockey	690 kg/s	1253	805	tennis	1.2088	0.0282	645	0.5822
+0	1300 m^3	0.5913	rabbit	Computational Media	0.5475	849	golf	1228 kg/s	1474	253	basketball	0.9222	0.4332	548	1.1799
+0	1053 m^3	0.198	cat	Statistics, Computational Media	1.1579	946	golf	1265 kg/s	918	-349	basketball	0.8439	0.3798	732	0.7385
+5	616 m^3	0.7695	RAT	Biotechnology	1.1179	1160	football	-5 kg/s	746	1432	badminton, golf, track & field	0.672	1.0815	1196	0.9868
+5	443 m^3	0.5655	Rat	Electrical Engineering, Biotechnology	0.7632	1296	running	-97 kg/s	569	1208	track & field	0.4765	0.963	927	1.3244
+1	978 m^3	0.9026	dog	Data Science	0.074	655	Track & Field	1270 kg/s	1060	831	soccer	0.97	0.5505	-1	0.4572
+3	657 m^3	0.7598	chicken	Natural Language Processing	1.1203	1573	motor sports	1089 kg/s	982	1280	football	0.4216	0.8092	647	1.3351
+2	1105 m^3	-0.0476	ferret	Computer Game Design	1.0402	1296	baseball	850 kg/s	680	185	tennis	-0.238	0.7658	951	1.1733
+4	407 m^3	0.9005	reptile	Bioengineering, Applied Mathematics, Computer Engineering	0.7212	-210	ice hockey	983 kg/s	1518	656	tennis	0.7296	0.2873	587	0.917
+1	578 m^3	1.1293	pig	Data Science	-0.0848	497	boxing	1280 kg/s	859	1184	track & field, golf, ice hockey	1.1905	0.8243	225	0.4406
+2	863 m^3	-0.1415	ferret	Data Science	0.9656	1247	badminton	967 kg/s	561	-197	baseball, volleyball	0.0787	1.1856	918	0.8884
+0	1102 m^3	0.6728	cat	Computational Media, Bioinformatics	0.7135	1109	volleyball	1554 kg/s	1104	158	basketball	0.7915	0.19	539	0.7693
+2	962 m^3	-0.1565	ferret	Computer Game Design	0.8646	1144	badminton	946 kg/s	-84	1135	volleyball	0.1841	0.8462	823	1.405
+5	543 m^3	0.758	N/A	Robotics Engineering, Biotechnology	1.6598	1268	tennis	75 kg/s	1062	1454	golf, badminton	-0.0313	1.1121	1000	1.1384
+4	87 m^3	0.611	chicken	Computer Engineering, Bioengineering	0.7967	-423	ice hockey	774 kg/s	1186	707	TENNIS	0.9357	-0.3525	791	0.6693
+3		0.466	chicken	Human Computer Interaction	0.9517	723	volleyball	838 kg/s	1221	1109	football, boxing	n/a	0.9355	861	1.2309
+4	141 m^3	1.0734	bird	Applied Mathematics, Bioengineering	0.7913	240	ice hockey	434 kg/s	812	1020	tennis	1.0216	0.0973	-43	0.8478
+2	848 m^3	-0.1049	ferret	Computer Game Design	1.3544	1581	golf	1264 kg/s	448	198	baseball, running	0.2001	0.8878	385	1.059
+4	230 m^3	1.3343	bird	Computer Science, Applied Mathematics, Bioengineering	1.1597	501	golf	273 kg/s	974	864	tennis	0.8323	-0.1841	555	0.7262
+5	664 m^3	0.835	hamster	Technology and Information Management, Robotics Engineering, Electrical Engineering	1.3445	817	running	-499 kg/s	587	1066	track & field, badminton	0.3335	0.6184	804	1.5269
+1	978 m^3	0.8872	dog	Data Science	0.2995	101	basketball	1087 kg/s	1080	542	SOCCER	0.8983	0.6855	245	-0.1277
+4	-107 m^3	0.5818	bird	Computer Science	1.0419	18	ice hockey	174 kg/s	1325	814	tennis	0.61	-0.1916	906	0.4862
+4	-193 m^3	0.9211	BIRD	Computer Engineering, Applied Mathematics, Bioengineering	0.651	467	ice hockey	308 kg/s	1394	1165	tennis	1.0926	-0.2031	683	0.446
+2	1091 m^3	0.187	ferret	Computer Game Design	0.6107	927	baseball	1147 kg/s	575	333	volleyball	-0.2039	1.2787	875	0.7446
+3	389 m^3	0.346	chicken	Human Computer Interaction	0.9476	917	motor sports	1268 kg/s	1130	1244	football, boxing	1.4946	1.0506	524	0.4101
+1	732 m^3	0.8262	pig	Data Science	-0.3206	508	track & field	812 kg/s	899	933	boxing, football	1.0814	0.6667	643	0.5688
+5	838 m^3	0.8784	reptile	Biotechnology, Robotics Engineering, Technology and Information Management	0.6946	996	tennis	-243 kg/s	734	1544	badminton, golf, ice hockey	0.4807	1.1374	1064	1.3074
+1	1279 m^3	1.1232	pig	Data Science	0.3427	350	basketball	1036 kg/s	980	1002	soccer	0.7898	0.7487	460	-0.057
+3	671 m^3	0.3429	chicken	Human Computer Interaction	0.7947	1201	motor sports	995 kg/s	N/A	1163	football, motor sports	1.1261	0.9673	1264	1.6025
+3	370 m^3	0.2376	chicken	Natural Language Processing	1.1955	927	motor sports	1294 kg/s	869	1234	football	1.0454	1.0269	666	1.3383
+0	1371 m^3	0.4613	fish	Computational Media, Bioinformatics	0.854	1235	golf	1355 kg/s	749	-442	basketball	0.9551	0.5497	1083	0.7488
+3	180 m^3	-0.0212	chicken	Natural Language Processing	1.0362	1010	motor sports	1004 kg/s	837	747	boxing	0.6913	0.7619	801	0.7599
+2	1239 m^3	0.1685	ferret	Computer Game Design	0.7417	1102	badminton	893 kg/s	482	123	volleyball, baseball	-0.1363	0.7694	569	0.6936
+1	1353 m^3	0.6488	dog	Data Science	-0.0249	659	basketball	1298 kg/s	1098	140	soccer	1.0752	0.5541	382	0.7163
+4	-192 m^3	0.8582	chicken	Computer Science	0.9879	66	ice hockey	1085 kg/s	863	768	tennis	1.0409	0.1161	561	0.7965
+1	1298 m^3	0.9884	pig	Data Science	0.1461	397	track & field	897 kg/s	975	432	soccer	0.6094	0.5676	158	0.2519
+3	24 m^3	0.2467	CHICKEN	Human Computer Interaction	0.5391	1365	motor sports	1281 kg/s	985	882	boxing	0.8911	1.227	885	1.1988
+1	841 m^3	0.634	pig	Data Science	0.2327	1180	basketball	873 kg/s	409	951	soccer	0.8034	0.3005	515	0.365
+3	444 m^3	0.204	chicken	Human Computer Interaction	1.1075	986	motor sports	580 kg/s	996	1507	boxing	0.9573	0.4671	806	0.8532
+4	63 m^3	1.1305	reptile	Applied Mathematics, Computer Engineering	0.9044	-60	ice hockey	843 kg/s	1146	1269	tennis	1.1109	-0.0175	594	0.8693
+0	1140 m^3	0.413	fish	Statistics	0.1831	908	golf	717 kg/s	1569	-278	basketball	0.3422	0.3082	668	1.2613
+5	557 m^3	0.8981	guinea pig	Robotics Engineering, Games and Playable Media	0.6853	1147	running	687 kg/s	1661	1067	golf	0.9902	0.9609	1286	0.6939
+4	201 m^3	0.7699	bird	Bioengineering	0.4359	422	ice hockey	582 kg/s	899	1039	tennis	0.7357	-0.3212	464	0.469
+3	238 m^3	0.5265	chicken	Natural Language Processing	1.2721	1017	motor sports	780 kg/s	1274	968	motor sports	1.5242	1.1907	895	0.6132
+3	452 m^3	0.1954	chicken	Human Computer Interaction	1.227	1149	motor sports	1176 kg/s	1192	950	football	0.7775	0.8385	743	1.1871
+4	348 m^3	0.904	bird	Bioengineering	0.6864	199	ice hockey	948 kg/s	339	1182	tennis	1.2461	0.0556	750	0.789
+4	-24 m^3	1.2824	bird	Bioengineering, Computer Engineering, Computer Science	0.6619	-228	ice hockey	263 kg/s	1369	959	tennis	1.5603	-0.0839	706	0.4811
+1	640 m^3	0.8486	pig	Data Science	0.4909	789	boxing	-7 kg/s	N/A	1257	soccer	0.8067	0.7435	322	0.3552
+2	1032 m^3	0.0286	ferret	Statistics	0.4176	1635	ice hockey	1133 kg/s	-3	318	baseball, volleyball	-0.2293	1.0937	931	0.6578
+0	1092 m^3	0.4372	cat	Bioinformatics	0.6569	1353	golf	1087 kg/s	932	-247	basketball	0.9313	0.7599	703	1.4563
+0	995 m^3	0.5466	rabbit	Bioinformatics	1.1435	1717	volleyball	949 kg/s	1598	-16	basketball	0.8718	0.2779	217	0.8811
+5	979 m^3	1.0057	guinea pig	Biotechnology, Technology and Information Management	1.5696	712	soccer	344 kg/s	1433	1268	ice hockey	0.2993	0.9496	906	1.3422
+2	832 m^3	0.1593	ferret	Computer Game Design	0.9667	679	ice hockey	689 kg/s	1068	273	volleyball	0.2304	0.631	1267	0.9911
+5		0.557	guinea pig	Electrical Engineering, Technology and Information Management, Robotics Engineering	1.3195	968	golf	97 kg/s	1214	1862	ice hockey, badminton	0.7191	0.9949	648	0.7577
+1	877 m^3	0.81	pig	Data Science	0.1726	517	track & field	1102 kg/s	1282	988	soccer	1.2132	0.6991	327	0.0283
+1	741 m^3	0.652	pig	Data Science	-0.0047	543	basketball	721 kg/s	849	473	soccer	1.44	0.7958	395	0.1388
+1	1067 m^3	0.6593	pig	Data Science	0.3668	793	basketball	630 kg/s	632	544	soccer	0.9528	0.6832	234	0.0019
+0	1166 m^3	0.6734	fish	Computational Media, Bioinformatics	0.6358	1237	volleyball	1079 kg/s	897	309	basketball	0.8824	0.0186	402	1.4387
+4	-217 m^3	1.0837	BIRD	Applied Mathematics, Computer Science	0.9225	160	ice hockey	592 kg/s	1256	1287	tennis	0.9922	-0.1419	793	0.7142
+0	1041 m^3		cat	cOMPUTATIONAL mEDIA	1.0322	1039	Golf	505 kg/s	1150	264	basketball	0.6412	0.2037	601	0.8784
+2	1232 m^3	-0.0277	Ferret	Computer Game Design	0.8357	1136	badminton	1110 kg/s	846	625	volleyball, running	-0.3115	0.6023	972	1.3314
+2	1054 m^3	0.0277	ferret	Computer Game Design	n/a	941	baseball	908 kg/s	306	205	running, baseball	0.2887	0.4529	986	1.0221
+1	1124 m^3	0.895	dog	Data Science	0.0546	605	boxing	1291 kg/s	969	754	soccer	0.7137	0.559	5	-0.0035
+3	389 m^3	0.1681	chicken	Human Computer Interaction	1.1027	903	motor sports	1249 kg/s	888	949	N/A	0.7687	1.1221	741	0.9248
+2	1153 m^3	0.2688	ferret	Computer Game Design	1.0544	1363	badminton	1038 kg/s	505	633	volleyball, baseball	0.4888	1.0973	923	1.0771
+4	255 m^3	1.0853	bird	Computer Science, Applied Mathematics, Bioengineering	1.0568	332	soccer	799 kg/s	1243	998	tennis	0.5941	0.3434	209	1.0663
+0	779 m^3	0.6765	rabbit	Bioinformatics	0.1662	1160	golf	1380 kg/s	1261	222	basketball	0.5168	0.5563	1186	0.7729
+0	871 m^3	0.2911	dog	Bioinformatics	0.8136	1080	golf	1403 kg/s	938	615	basketball	0.5978	0.2645	505	1.2297
+5	1066 m^3	0.637	guinea pig	Electrical Engineering, Biotechnology, Games and Playable Media	1.2379	554	tennis	438 kg/s	985	1014	golf	0.6931	1.152	1106	0.7825
+3	241 m^3	0.5058	chicken	Human Computer Interaction	0.9846	851	motor sports	1070 kg/s	698	1304	football	1.662	0.6112	635	0.6348
+5	521 m^3	0.9359	guinea pig	Games and Playable Media, Robotics Engineering, Technology and Information Management	1.0808	325	running	129 kg/s	1118	1193	badminton	0.8311	0.5572	915	1.2273
+3	296 m^3	0.4508	chicken	Human Computer Interaction	0.7575	1300	motor sports	693 kg/s	697	1613	boxing	1.4884	0.9277	1068	0.9716
+4	120 m^3	1.227	bird	Bioengineering, Applied Mathematics	0.8954	213	ice hockey	52 kg/s	900	950	tennis	0.8931	-0.0867	314	0.3658
+3	281 m^3	0.3039	chicken	Natural Language Processing	1.3726	1183	motor sports	1163 kg/s	844	1366	football	1.2111	0.8364	1331	0.6766
+5	416 m^3	0.4624	rat	Technology and Information Management, Robotics Engineering, Electrical Engineering, Biotechnology	1.064	513	running	324 kg/s	1152	1210	ice hockey, golf	0.9313	1.0364	1144	1.2341
+3	444 m^3	0.4679	Chicken	Natural Language Processing	0.4079	973	motor sports	1057 kg/s	406	1178	motor sports, boxing	1.2476	1.1118	430	1.1058
+1	950 m^3	0.6388	dog	Data Science	-0.0616	907	basketball	1640 kg/s	1134	999	soccer	1.1067	0.6653	80	0.0542
+0	1398 m^3	0.6337	fish	Statistics	0.5012	725	volleyball	750 kg/s	866	-170	basketball	0.7275	-0.1998	689	0.9595
+4	108 m^3	1.1873	reptile	Applied Mathematics, Computer Engineering, Computer Science	1.4628	66	ice hockey	475 kg/s	729	959	tennis	0.6568	-0.2149	696	0.5228
+1	751 m^3	0.8693	dog	Data Science	-0.2122	621	basketball	1309 kg/s	976	1050	soccer	0.6818	0.6296	-179	-0.0171
+4	9 m^3	1.1477	reptile	None	0.8949	-49	ice hockey	520 kg/s	1176	1003	tennis	1.3003	0.2794	725	0.8257
+1	740 m^3	0.7974	pig	Data Science	0.4982	501	basketball	903 kg/s	1033	741	soccer	0.5657	0.7952	253	0.221
+1	995 m^3	1.2317	dog	Data Science	0.0122	940	track & field	831 kg/s	1223	1131	soccer	0.4629	0.8529	163	-0.207
+3	-140 m^3	0.0919	chicken	Natural Language Processing	0.8271	685	baseball	863 kg/s	582	721	motor sports	0.8364	0.8495	668	0.6197
+4	-25 m^3	1.2329	bird	Applied Mathematics	0.8666	48	ice hockey	618 kg/s	1242	1122	tennis	0.8567	-0.1171	226	0.7016
+0	635 m^3	0.742	cat	Bioinformatics, Statistics	0.5038	978	VOLLEYBALL	882 kg/s	632	-2	basketball	1.533	0.578	829	0.9197
+5	376 m^3	0.752	hamster	Technology and Information Management, Robotics Engineering, Biotechnology	1.0008	926	tennis	7 kg/s	945	1397	badminton, track & field, golf	0.3819	1.035	518	1.15
+1	818 m^3	1.0117	pig	Data Science	0.388	994	volleyball	1282 kg/s	538	1297	soccer	0.81	0.9988	542	0.0186
+0	653 m^3	0.5311	cat	Statistics, Bioinformatics	0.8409	1085	volleyball	933 kg/s	?	8	BASKETBALL	0.9502	0.3027	473	1.1606
+1	806 m^3	0.7359	CHICKEN	Data Science	0.2856		track & field	812 kg/s	864	823	soccer	1.106	0.4424	224	0.395
+3	282 m^3	0.4303	chicken	Natural Language Processing	1.1172	1446	motor sports	1191 kg/s	999	1027	Football, Boxing	1.164	1.1347	1020	1.1302
+4	26 m^3	0.7641	bird	Computer Science	1.012	490	ice hockey	893 kg/s	960	778	tennis	1.0188	-0.0892	608	0.7933
+1	1153 m^3	0.9728	dog	Data Science	-0.1758	244	basketball	645 kg/s	1112	806	soccer	1.0051	0.7754	163	?
+0	1004 m^3	0.6324	fish	Statistics, Computational Media	0.4589	876	golf	1204 kg/s	1079	-116	tennis	0.9104	0.4173	589	1.1215
+5	1157 m^3	1.0079	rat	Biotechnology, Technology and Information Management, Games and Playable Media, Electrical Engineering	1.0572	785	football	-258 kg/s	1414	1030	badminton, ice hockey	1.1352	1.01	1068	0.5218
+4	310 m^3	0.8017	bird	Bioengineering, Computer Science	1.3174	366	ice hockey	120 kg/s	623	1598	soccer	0.8529	0.123	727	0.491
+2	777 m^3	-0.0435	ferret	Computer Game Design	1.3636	1067	badminton	959 kg/s	641	-55	volleyball	0.4837	0.9233	559	0.6054
+0	974 m^3	0.1867	pig	Bioinformatics	1.0999	1193	golf	1221 kg/s	1737	-290	basketball	1.103	0.318	840	0.7713
+4	221 m^3	1.1921	reptile	Applied Mathematics, Bioengineering	1.5618	445	ice hockey	241 kg/s	662	783	tennis	0.8357	-0.0047	451	0.7085
+0	956 m^3	0.4719	rabbit	Bioinformatics, Statistics	1.2023	888	golf	924 kg/s	1075	-45	basketball	0.8752	0.2796	645	0.6647
+1	1127 m^3	0.6165	reptile	Data Science	0.0959	266	track & field	1069 kg/s	1490	769	soccer	1.0097	0.8595	364	0.0313
+4	241 m^3	1.1621	ferret	Bioengineering, Applied Mathematics, Computer Science	0.799	628	ice hockey	570 kg/s	1047	747	tennis	1.4783	0.1917	119	1.417
+2	1031 m^3	-0.016	ferret	Computer Game Design	1.2521	596	baseball	829 kg/s	114	4	volleyball	-0.0759	0.7304	560	1.0451
+1	1213 m^3	0.8531	pig	Data Science	0.6251	593	ice hockey	1128 kg/s	704	535	soccer	1.2224	0.5322	113	0.4626
+1	947 m^3	0.5508	dog	Data Science	0.4268	-142	track & field	None	1207	992	soccer	1.0778	0.4297	-201	0.4196
+4	37 m^3	1.2111	reptile	Bioengineering, Computer Science	0.7511	322	ice hockey	484 kg/s	584	879	tennis	0.6926	-0.1342	746	0.3944
+4	211 m^3	1.3084	BIRD	Computer Engineering, Applied Mathematics	1.0402	-219	ice hockey	701 kg/s	676	1607	tennis	1.1316	0.5215	393	0.5619
+1	1346 m^3	0.9796	pig	Data Science	-0.0035	439	basketball	884 kg/s	1083	1244	soccer	1.2782	0.5797	540	0.2301
+3	79 m^3	0.221	chicken	Natural Language Processing	1.0305	830	motor sports	1370 kg/s	1028	1081	football, boxing	1.1103	0.6431	1222	0.8512
+0	667 m^3	0.1817	cat	Bioinformatics, Computational Media	1.2729	1197	volleyball	1163 kg/s	776	38	basketball	0.6278	0.069	308	1.1263
+2	1091 m^3	-0.2858	ferret	Computer Game Design	1.3955	1009	badminton	1037 kg/s	756	555	running, baseball	-0.205	1.0468	222	0.7905
+4	-341 m^3	1.134	reptile	Computer Science, Computer Engineering	0.9623	266	ice hockey	218 kg/s	735	662	tennis	1.0126	0.4293	766	0.6952
+4	-22 m^3	0.7381	reptile	Computer Engineering, Computer Science, Bioengineering	0.9117	733	Ice Hockey	306 kg/s	1384	1202	tennis	1.2045	0.1562	342	0.8817
+2	787 m^3	0.288	pig	Computer Game Design	0.5928	1180	baseball	997 kg/s	76	-263	baseball	0.0454	0.5137	739	1.0555
+4	135 m^3	1.0555	bird	Bioengineering, Computer Science, Computer Engineering	0.1919	89	ice hockey	853 kg/s	1126	1375	tennis	0.8364	-0.197	811	0.8349
+3	-29 m^3	0.4102	chicken	Human Computer Interaction	0.5305	1285	motor sports	571 kg/s	1126	982	football, boxing	1.0426	0.6261	855	0.6721
+3	335 m^3	0.2819	chicken	Human Computer Interaction	0.9921	1090	motor sports	1014 kg/s	916	1604	boxing, motor sports	1.5075	1.1899	892	0.9509
+5	888 m^3	0.6287	hamster	tECHNOLOGY AND iNFORMATION mANAGEMENT, bIOTECHNOLOGY	1.5264	767	running	224 kg/s	890	1838	track & field, ice hockey, badminton	0.6636	0.6276	873	1.1654
+0	1252 m^3	0.415	rabbit	Computational Media, Bioinformatics	0.7477	679	volleyball	848 kg/s	1156	533	soccer	0.9203	0.0822	552	0.5447
+0	1309 m^3	0.5432	FISH	Computational Media	0.534	814	golf	1296 kg/s	737	-255	basketball	1.0547	0.4588	472	0.7839
+2	564 m^3	0.3055	ferret	Computer Game Design	0.9424	1613	badminton	1111 kg/s	653	684	baseball, running	-0.0771	1.3155	928	0.6816
+3	353 m^3	0.5766	chicken	Natural Language Processing	0.541	717	motor sports	1100 kg/s	833	1227	football, boxing	1.223	0.4624	733	1.1362
+5	495 m^3	0.4452	rat	Robotics Engineering	0.9764	840	tennis	68 kg/s	1240	1127	badminton	0.3663	1.1761	807	0.8306
+4	49 m^3	1.0482	reptile	Bioengineering	0.5237	145	ice hockey	155 kg/s	1004	1274	tennis	1.0706	0.441	895	0.88
+3	483 m^3	0.6028	chicken	Human Computer Interaction	0.8855	975	motor sports	1237 kg/s	250	509	football	0.8215	0.7963	812	0.8162
+2	985 m^3	-0.1607	ferret	Computer Game Design	0.7958	1037	badminton	1191 kg/s	395	179	baseball	-0.0282	1.1859	815	0.5156
+3	197 m^3	0.5742	chicken	Human Computer Interaction	1.3524	1232	motor sports	871 kg/s	974	656	boxing, football	0.755	0.6682	1119	0.9514
+5	432 m^3	0.7571	HAMSTER	Robotics Engineering, Technology and Information Management	1.0837	796	running	-223 kg/s	930	1370	track & field, golf, ice hockey	0.7729	1.017	684	1.4277
+4	214 m^3	0.8134	dog	Bioengineering	1.17	0	ice hockey	833 kg/s	992	898	tennis	0.9794	0.0506	379	0.7745
+5	843 m^3	0.8578	guinea pig	Robotics Engineering, Biotechnology, Electrical Engineering, Games and Playable Media	1.0241	1032	football	218 kg/s	1136	365	track & field, ice hockey	0.8676	1.0845	765	1.3825
+5	704 m^3	1.1838	HAMSTER	Electrical Engineering, Technology and Information Management, Biotechnology	0.6424	946	soccer	-258 kg/s	1067	976	golf, badminton	0.5208	1.1941	1034	0.7936
+2	963 m^3	-0.0042	reptile	Computer Game Design	0.8553	812	baseball	974 kg/s	348	541	volleyball, running	0.162	0.5081	1121	0.9242
+2	1048 m^3	0.212	Ferret	Computer Game Design	0.5165	1408	BASEBALL	859 kg/s	-79	-52	running	0.098	0.6505	897	1.1415
+2	791 m^3	0.2011	ferret	Computer Game Design	1.0712	872	badminton	1054 kg/s	389	610	baseball	0.3294	0.797	N/A	0.9644
+1	1170 m^3	1.0555	pig	Data Science	0.0413	454	ice hockey	1109 kg/s	905	1217	soccer	1.5124	0.8861	66	-0.0521
+3	221 m^3	0.2024	chicken	Human Computer Interaction	0.1082	909	motor sports	1105 kg/s	664	421	boxing	0.8516	1.1496	1285	1.1163
+4	187 m^3	0.9159	bird	Applied Mathematics, Computer Science, Computer Engineering	0.7895	-95	basketball	297 kg/s	686	780	tennis	0.9239	0.2862	702	0.9639
+1	1094 m^3	1.1424	cat	Data Science	0.3412	701	ice hockey	1433 kg/s	1032	278	soccer	0.8994	0.7519	532	0.766
+2	1032 m^3	0.0493	FERRET	Computer Game Design	1.0105	1646	baseball	1121 kg/s	-6	619	running	0.3739	1.0515	736	1.1207
+1	886 m^3	1.4107	dog	Data Science	0.0117	313	track & field	972 kg/s	864	850	tennis	0.7855	0.8676	80	-0.1087
+0	791 m^3	0.3502	rabbit	Computational Media	0.0907	1181	volleyball	1378 kg/s	495	383	basketball	0.8323	0.2857	878	0.6178
+0	1074 m^3	0.0958	cat	Statistics	0.8424	763	golf	1354 kg/s	926	-177	basketball	1.2854	0.0514	758	1.0652
+0	1192 m^3	0.5057	rabbit	Statistics, Computational Media	0.2493	489	volleyball	1346 kg/s	1500	315	basketball	1.3348	0.1178	553	1.1737
+4	51 m^3	1.1938	bird	Applied Mathematics, Computer Engineering	1.271	680	ice hockey	312 kg/s	995	1461	tennis	1.1312	0.321	748	0.9571
+0	1123 m^3	0.6309	rabbit	Bioinformatics	0.1641	951	golf	719 kg/s	975	-541	basketball	0.5414	0.8288	584	0.387
+1	1561 m^3	1.2144	?	Data Science	0.4241	685	track & field	1053 kg/s	1207	782	soccer	1.1034	0.7559	334	0.5179
+0	880 m^3	0.6835	fish	Computer Game Design	1.2124	1143	volleyball	964 kg/s	943	-14	basketball	1.1778	0.6056	481	1.2648
+3	216 m^3	0.3288	chicken	Human Computer Interaction	0.5867	516	motor sports	1221 kg/s	1142	780	Boxing	1.0472	0.9336	794	0.7762
+0	1578 m^3	0.3548	rabbit	Bioinformatics	0.7976	882	volleyball	937 kg/s	869	446	basketball	0.9425	0.2727	719	1.199
+5	462 m^3	0.5628	guinea pig	ELECTRICAL ENGINEERING, GAMES AND PLAYABLE MEDIA, ROBOTICS ENGINEERING, TECHNOLOGY AND INFORMATION MANAGEMENT	1.3841	1156	football	435 kg/s	706	862	ice hockey, badminton, track & field	0.2947	0.6829	1002	0.8027
+3	392 m^3	0.4288	chicken	Natural Language Processing	0.7634	829	motor sports	1285 kg/s	957	1549	boxing, motor sports	0.9	0.3535	1256	0.8176
+0	1330 m^3	0.4187	fish	Statistics	0.4558	475	motor sports	1069 kg/s	1163	-292	baseball	0.9729	0.4825	331	1.1268
+5	514 m^3	0.6011	rat	Robotics Engineering	0.848	630	soccer	-458 kg/s	1228	1123	golf, badminton	0.4337	0.861	1122	0.927
+1	1164 m^3	0.9462	dog	Computer Engineering, Bioengineering	0.0049	657	basketball	1023 kg/s	565	933	soccer	1.1079	0.5399	285	0.132
+5	227 m^3	0.8712	rat	Technology and Information Management, Electrical Engineering	0.9887	891	tennis	245 kg/s	1027	1285	track & field, golf, badminton	0.3378	0.3957	557	0.8273
+4	-181 m^3	1.0533	reptile	Bioengineering	1.0359	-91	?	689 kg/s	1301	1080	tennis	1.0592	-0.0427	230	0.6778
+4	230 m^3	1.0481	reptile	Computer Science	0.9011	330	ice hockey	620 kg/s	1242	319	tennis	1.0952	-0.0437	460	0.201
+4	189 m^3	0.7672	reptile	Computer Engineering	1.0109	286	ice hockey	681 kg/s	1125	635	tennis	1.8345	0.087	546	0.6744
+3	277 m^3	0.4483	chicken	Natural Language Processing	0.7371	1474	motor sports	1085 kg/s	982	1234	football, boxing	0.9955	0.7748	1000	1.1135
+5	503 m^3	0.9879	guinea pig	Electrical Engineering	1.1294	960	soccer	371 kg/s	N/A	776	badminton	0.5544	0.9855	953	0.7791
+5	986 m^3	0.6102	hamster	Technology and Information Management, Electrical Engineering, Robotics Engineering, Games and Playable Media	1.3817	1205	football	-505 kg/s	1266	614	track & field, golf	0.2661	1.0403	950	1.3163
+3	75 m^3	0.3566	chicken	Natural Language Processing	0.6682	952	motor sports	895 kg/s	1491	1123	motor sports	0.8863	1.0559	1067	1.2693
+1	1222 m^3	0.7098	dog	Data Science	-0.0073	541	basketball	1167 kg/s	1330	?	soccer	0.5778	0.5174	814	0.0603
+1	980 m^3	0.8586	dog	Data Science	0.0399	615	running	1000 kg/s	1309	795	soccer	0.9479	0.753	517	0.3495
+5	668 m^3	0.5064	guinea pig	Electrical Engineering	0.9571	1104	football	-780 kg/s	890	548	ice hockey, badminton	0.0043	0.6333	848	0.985
+3	190 m^3	0.4663	chicken	Human Computer Interaction	0.5447	977	motor sports	1151 kg/s	1671	767	football, motor sports	0.8802	0.6476	881	1.2248
+3	659 m^3	0.3008	chicken	Natural Language Processing	1.2636	1399	motor sports	1202 kg/s	662	1029	volleyball	0.8133	0.9388	779	0.7152
+2	1289 m^3	0.1855	ferret	Computer Game Design	0.9724	1167	baseball	1324 kg/s	359	467	baseball	-0.2579	0.9338	773	1.0325
+5	209 m^3	0.5436	guinea pig	Games and Playable Media, Robotics Engineering, Biotechnology	1.0726	717	tennis	30 kg/s	1122	995	running, baseball	0.6177	1.078	1150	0.642
+2	1499 m^3	-0.0276	ferret	Computer Game Design	0.6338	865	baseball	881 kg/s	838	428	volleyball	-0.1	0.9907	228	0.966
+2	656 m^3	0.2578	ferret	Computer Game Design	1.1209	893	badminton	1197 kg/s	413	722	running, baseball	0.0267	0.7548	982	1.0431
+2	1365 m^3	0.3699	ferret	Computer Game Design	0.8654	864	motor sports	1178 kg/s	390	412	baseball	0.2705	0.7985	1020	0.8034
+3	468 m^3	0.1256	chicken	Natural Language Processing	1.0257	801	motor sports	708 kg/s	901	942	motor sports	0.6238	0.8633	785	0.6076
+1	1032 m^3	0.8436	pig	Data Science	0.4877	515	boxing	686 kg/s	1605	709	soccer	0.6065	0.5305	136	0.3959
+1	884 m^3	1.1892	pig	Computational Media	0.5227	744	basketball	1088 kg/s	1447	696	soccer	0.512	0.8644	706	0.2887
+0	1221 m^3	0.6009	rabbit	Computational Media, Bioinformatics	0.7409	745	volleyball	817 kg/s	1361	-10	basketball	0.8711	0.4963	1422	1.1555
+5	828 m^3	0.8988	hamster	Robotics Engineering, Games and Playable Media, Biotechnology, Electrical Engineering	0.642	1038	SOCCER	-67 kg/s	782	1128	ice hockey, golf, badminton	0.0605	1.5017	761	1.1124
+3	-103 m^3	0.3875	chicken	Human Computer Interaction	0.6327	960	motor sports	1134 kg/s	913	587	football	0.5747	0.8023	965	1.011
+5	454 m^3	0.6178	hamster	Technology and Information Management, Games and Playable Media, Robotics Engineering, Biotechnology	1.2395	974	tennis	139 kg/s	1216	1079	golf, track & field	0.2276	0.8065	1117	1.0401
+1	729 m^3	n/a	dog	Data Science	0.122	1055	Basketball	1186 kg/s	1031	986	soccer	1.6116	0.5066	782	0.169
+2	662 m^3	-0.0538	ferret	Computer Game Design	1.4286	971	badminton	668 kg/s	277	n/a	running, baseball	0.2531	0.8615	559	0.5441
+2	986 m^3	0.4949	ferret	Computer Game Design	1.1917	1512	baseball	1053 kg/s	1325	358	volleyball, running		0.7204	690	1.0204
+1	1138 m^3	0.8403	dog	Data Science	-0.0932	612	ice hockey	1102 kg/s	1039	1269	soccer	1.0541	0.0765	440	0.5429
+1	743 m^3	1.0174	pig	Data Science	0.9352	548	basketball	552 kg/s	682	707	soccer	0.838	0.4678	198	0.8457
+4	186 m^3	0.7194	bird	Computer Engineering, Applied Mathematics, Bioengineering	0.9213	232	ice hockey	316 kg/s	1255	604	tennis	0.9665	0.0122	645	0.8242
+5	782 m^3	0.6252	hamster	Games and Playable Media	1.27	892	soccer	-42 kg/s	740	850	golf	0.833	0.8713	622	0.8799
+3	786 m^3	0.3347	chicken	Natural Language Processing	0.9437	1000	motor sports	1256 kg/s	840	1120	football	1.3136	0.7324	905	1.0483
+4	594 m^3	0.8029	bird	Applied Mathematics	0.7593	162	ice hockey	283 kg/s	1373	996	tennis	0.992	-0.1443	409	0.5263
+1	1040 m^3	1.1454	dog	Data Science	-0.0912	451	basketball	1127 kg/s	389	1298	soccer	1.2587	0.6928	-59	0.2113
+5	601 m^3	0.4235	rat	Biotechnology	0.8001	685	soccer	-317 kg/s	704	1021	badminton, ice hockey, track & field	0.9512	1.0163	951	0.7212
+4	-250 m^3	0.9118	reptile	cOMPUTER sCIENCE, aPPLIED mATHEMATICS	0.9445	97	ice hockey	134 kg/s	780	952	tennis	0.516	0.0143	487	0.5774
+2	1120 m^3	0.1551	ferret	Computer Game Design	0.858	1300	motor sports	1119 kg/s	489	50	running, baseball	0.0149	0.6649	664	1.1274
+3	150 m^3	0.5429	chicken	Natural Language Processing	0.7996	788	motor sports	845 kg/s	1136	1048	motor sports, football	1.3113	1.2309	1145	1.3014
+5	348 m^3	0.6574	rat	Electrical Engineering	1.6552	577	running	203 kg/s	1232	642	ice hockey, badminton	0.2081	0.9349	508	1.0041
+1	1035 m^3	1.0798	pig	Data Science	-0.2408	629	BADMINTON	633 kg/s	890	1026	soccer	0.8276	0.7548	-10	0.5556
+3	292 m^3	0.1261	chicken	Natural Language Processing	0.8208	1281	motor sports	880 kg/s	853	918	football	0.8855	1.2564	954	1.1451
+2	872 m^3	0.1294	ferret	Computer Game Design	1.0312	1464	baseball	942 kg/s	149	1161	baseball	0.3604	0.9114	810	1.19
+2	709 m^3	-0.0832	ferret	Computer Game Design	1.4101	1056	baseball	735 kg/s	975	40	volleyball, running	-0.0311	1.4049	1003	0.9763
+5	570 m^3	0.206	guinea pig	Robotics Engineering, Games and Playable Media, Electrical Engineering	1.1919	592	soccer	-366 kg/s	1469	1465	badminton	1.1295	1.007	952	1.0034
+5	604 m^3	0.6471	guinea pig	Games and Playable Media	1.1972	742	tennis	-274 kg/s	580	1322	track & field, golf	0.816	0.8167	890	1.0043
+1	996 m^3	0.9954	rabbit	Data Science	0.2322	532	basketball	1109 kg/s	325	648	soccer	1.2454	0.986	195	0.2703
+2	1018 m^3	-0.067	ferret	Computer Game Design	0.9037	1455	baseball	947 kg/s	515	255	volleyball, running	-0.0329	0.783	530	1.2113
+0	1243 m^3	0.3529	rabbit	Computational Media	0.8467	1030	volleyball	1083 kg/s	1566	-74	basketball	0.8126	0.5325	717	1.2263
+4	242 m^3	1.1028	bird	Computer Science	0.8274	410	ice hockey	438 kg/s	1164	1450	tennis	0.871	0.3476	641	0.7921
+5	356 m^3	0.3072	guinea pig	Technology and Information Management	1.0388	1190	football	-172 kg/s	1259	1161	badminton, track & field	0.2661	0.9313	900	0.6627
+4	310 m^3	1.1067	reptile	Applied Mathematics, Computer Engineering, Computer Science	0.4536	52	ice hockey	?	1345	817	tennis	1.0907	0.0799	808	1.165
+3	619 m^3	0.5171	chicken	Natural Language Processing	0.8288	1265	motor sports	1399 kg/s	1023	492	football, boxing	0.8922	0.5888	728	0.9722
+2	1043 m^3	0.2403	ferret	Computer Game Design	1.3691	1099	motor sports	1231 kg/s	647	367	baseball	0.3099	0.6513	773	NULL
+1	1222 m^3	0.8228	pig	Data Science	0.5584	225	boxing	803 kg/s	161	1093	soccer	0.991	1.0217	274	0.0742
+1	1043 m^3	1.3743	dog	Data Science	0.3587	539	boxing	934 kg/s	986	731	soccer	0.6804	0.6962	627	0.3376
+3	495 m^3	0.4834	chicken	Natural Language Processing	0.5505	974	motor sports	1076 kg/s	473	856	football, boxing	0.9057	0.9446	1155	0.5417
+0	1428 m^3	0.2565	cat	Statistics	0.5674	864	volleyball	685 kg/s	782	86	basketball	0.6315	0.4176	524	0.8576
+1	582 m^3	1.1184	dog	Data Science	0.2594	620	track & field	820 kg/s	902	344	soccer	0.9303	0.8109	290	0.2082
+0	1384 m^3	0.5056	fish	Computational Media, Statistics	0.6136	1034	GOLF	547 kg/s	1040	315	basketball	0.953	0.6927	785	0.969
+2	736 m^3	0.5223	ferret	Computer Game Design	1.356	1299	baseball	1027 kg/s	545	307	volleyball	0.3185	0.933	793	0.9648
+2	1173 m^3	0.4254	ferret	Computer Game Design	1.1356	504	None	1174 kg/s	672	51	volleyball, baseball	0.4211	1.1132	777	0.8926
+2	510 m^3	-0.0209	ferret	Data Science	1.369	1758	baseball	972 kg/s	94	413	volleyball, baseball	-0.1932	0.5065	757	0.867
+4	187 m^3	0.7045	BIRD	Computer Science	1.0787	369	ice hockey	159 kg/s	951	1142	tennis	1.3446	-0.0109	492	0.6024
+4	44 m^3	1.0708	bird	BIOENGINEERING	1.3468	-371	ice hockey	512 kg/s	342	992	tennis	1.2388	-0.1321	460	0.6819
+3	39 m^3	0.3471	Chicken	Natural Language Processing	0.8371	1156	motor sports	1069 kg/s	1179	617	boxing	0.4122	0.9478	949	1.2253
+1	1363 m^3	1.1799	dog	Data Science	0.7856	176	track & field	782 kg/s	1077	1045	soccer	1.2856	0.9819	408	0.1824
+1	669 m^3	1.2187	pig	Data Science	0.2749	638	boxing	1216 kg/s	278	111	soccer	0.789	0.8799	444	0.4285
+5	461 m^3	0.5888	hamster	Games and Playable Media	1.1542	873	soccer	-91 kg/s	801	487	track & field, ice hockey, badminton	0.9241	0.9679	940	1.2614
+5	937 m^3	1.2159	guinea pig	Games and Playable Media	1.133	1300	running	572 kg/s	1126	890	track & field	0.1834	0.9518	961	0.7402
+4	-127 m^3	0.8363	reptile	Bioengineering	1.0861	279	ice hockey	279 kg/s	832	827	tennis	1.3179	-0.1146	139	0.9992
+1	1204 m^3	0.9361	rat	Data Science	-0.0631	513	track & field	1015 kg/s	705	407	soccer	1.2031	0.6301	33	0.3249
+4	143 m^3	0.992	reptile	Bioengineering	0.9705	143	ice hockey	-205 kg/s	971	706	tennis	0.9344	-0.1167	312	0.9372
+1	1080 m^3	1.1153	bird	Data Science	0.2908	543	boxing	1185 kg/s	1029	1145	soccer	0.6116	0.5588	281	0.5305
+4	204 m^3	0.893	bird	Computer Engineering	1.353	652	ice hockey	234 kg/s	1550	932	tennis	0.7673	0.1092	851	0.7403
+5	569 m^3	0.6858	guinea pig	Robotics Engineering, Games and Playable Media	1.1016	798	soccer	123 kg/s	677	390	golf, badminton, track & field	0.7109	1.1105	1212	1.1849
+3	551 m^3	0.359	chicken	Human Computer Interaction	1.0037	1286	motor sports	1409 kg/s	895	704	football	0.9232	1.182	1118	1.0272
+3	286 m^3	0.8127	pig	Human Computer Interaction	0.7488	1124	motor sports	1017 kg/s	1133	995	football	0.7276	0.9854	978	0.6396
+0	1372 m^3	0.5552	rabbit	Computational Media, Bioinformatics	1.1566	745	golf	682 kg/s	1227	-32	basketball	0.4435	0.4553	644	1.2592
+2	1138 m^3	0.1889	ferret	Computer Game Design	0.6905	752	baseball	1000 kg/s	388	157	volleyball	-0.1751	0.6737	844	1.1596
+5	544 m^3	0.9462	rat	Computer Game Design	0.6144	236	football	-20 kg/s	1044	1248	ice hockey	0.4936	1.1911	975	1.5676
+2	772 m^3	0.2111	ferret	NULL	1.171	886	ice hockey	815 kg/s	582	-67	running, volleyball	0.0538	0.7982	623	
+1	1029 m^3	0.9104	pig	Data Science	0.3778	924	track & field	405 kg/s	675		motor sports	0.7149	0.6714	-52	0.7975
+5	650 m^3	1.1255	rat	Biotechnology	1.5197	1518	running	-341 kg/s	1440	1328	golf, track & field, badminton	0.3251	0.7461	975	1.0887
+4	247 m^3	1.2625	BIRD	Bioengineering, Computer Engineering, Applied Mathematics	0.7878	223	ice hockey	213 kg/s	1298	836	tennis	1.024	0.126	528	0.859
+1	847 m^3	0.7911	dog	Data Science	0.1971	None	basketball	1004 kg/s	795	709	soccer	0.9094	0.4814	394	0.6914
+5	781 m^3	0.6463	hamster	Technology and Information Management, Robotics Engineering	1.0864	944	tennis	-126 kg/s	1362	1063	golf	0.5574	1.0182	700	1.3775
+5	634 m^3	0.6983	guinea pig	Robotics Engineering	0.8212	1146	Running	208 kg/s	771	1036	ice hockey, track & field, badminton	0.1432	0.7896	864	0.968
+0	1069 m^3	0.6548	FISH	Bioinformatics	?	1577	golf	1234 kg/s	1236	35	basketball	1.0906	0.2596	420	0.8162
+2	1042 m^3	0.3133	ferret	Computer Game Design	0.7374	1137	baseball	557 kg/s	-108	706	baseball	-0.2223	0.8055	905	1.5856
+2	798 m^3	0.1281	ferret	Computer Game Design	1.1486	1047	badminton	1468 kg/s	-87	437	baseball	-0.3833	0.5019	446	1.0153
+0	1077 m^3	0.379	cat	bIOINFORMATICS, sTATISTICS	?	1248	golf	688 kg/s	1267	530	basketball	0.8952	-0.0945	997	1.2902
+0	941 m^3	0.5093	cat	Bioinformatics	1.1332	1192	golf	750 kg/s	783	250	basketball	1.7177	0.6551	1133	0.957
+3	428 m^3	0.2646	chicken	Human Computer Interaction	0.8309	489	motor sports	655 kg/s	770	1237	football	0.7358	0.9181	904	0.73
+3	281 m^3	0.4976	chicken	Natural Language Processing	0.8122	900	motor sports	829 kg/s	647	1248	motor sports	1.4912	1.0039		0.7467
+2	1203 m^3	-0.201	ferret	Computer Game Design	1.4292	643	badminton	1234 kg/s	960	455	volleyball	0.2363	1.0347	846	1.166
+0	1111 m^3	0.5315	fish	Computational Media, Bioinformatics	0.7229	1650	volleyball	1137 kg/s	1427	250	basketball	0.7954	-0.2	213	1.0861
+5	1074 m^3	0.7585	hamster	Technology and Information Management, Robotics Engineering, Electrical Engineering	1.0492	862	football	-263 kg/s	487	937	badminton, ice hockey, golf	0.5718	1.3186	954	0.7507
+5	693 m^3	0.887	rat	Electrical Engineering, Biotechnology	1.5568	750	badminton	0 kg/s	873	717	ice hockey, track & field, golf	0.4685	1.0617	808	0.7879
+1	954 m^3	0.9877	PIG	Data Science	0.341	261	boxing	383 kg/s	770	474	soccer	0.9173	0.562	450	0.3541
+5	593 m^3	0.9238	guinea pig	Robotics Engineering, Electrical Engineering	0.4122	805	running	N/A	746	1010	badminton	0.4265	?	463	0.6179
+4	307 m^3	0.9734	bird	Computer Science	0.6455	514	ice hockey	558 kg/s	1003	1176	tennis	0.8517	-0.1217	660	0.4436
+2	1015 m^3	0.2689	ferret	Computer Game Design	1.6809	798	badminton	600 kg/s	273	719	running	-0.3605	0.8629	973	0.7463
+5	715 m^3	0.8069	rat	Games and Playable Media, Biotechnology	1.0762	1017	soccer	174 kg/s	1087	1608	golf, badminton	0.5612	0.8368	645	1.073
+4	321 m^3	0.7017	bird	Computer Engineering, Computer Science, Bioengineering	0.7451	513	ice hockey	604 kg/s	1026	1250	tennis	1.0165	-0.0809	89	0.2349
+0	1020 m^3	-0.0188	fish	Bioinformatics, Computational Media	0.9561	828	volleyball	1122 kg/s	914	373	basketball	0.5696	0.4344	527	1.4165
+3	329 m^3	0.3705	chicken	Natural Language Processing	1.4605	1218	motor sports	960 kg/s	1662	447	football	0.6845	1.269	525	0.9981
+3	202 m^3	0.7528	chicken	Human Computer Interaction	0.3266	495	motor sports	590 kg/s	1014	1033	football	0.9473	0.7202	920	0.913
+4	406 m^3	1.0406	reptile	Applied Mathematics, Computer Engineering, Bioengineering	1.1453	174	ice hockey	412 kg/s	863	1164	tennis	1.2237	0.2802	835	0.6859
+1	860 m^3	0.6706	pig	Data Science	0.3209	611	track & field	474 kg/s	885	491	soccer	0.8964	0.7767	241	0.1762
+4	354 m^3	1.1849	bird	Computer Engineering, Computer Science, Applied Mathematics	1.0574	-156	ice hockey	42 kg/s	1037	1028	tennis	0.8627	-0.0348	692	0.0841
+5	629 m^3	0.0794	guinea pig	Robotics Engineering, Electrical Engineering	0.7283	907	tennis	23 kg/s	1727	855	track & field, golf, badminton	0.8377	0.7971	965	1.1442
+2	731 m^3	-0.1328	ferret	Computer Game Design	1.0729	1142	baseball	1541 kg/s	648	598	baseball	0.1943	0.6067	355	0.5453
+5	848 m^3	1.2075	hamster	Biotechnology	0.6945	383	running	182 kg/s	576	603	ice hockey, track & field	0.5311	0.9601	1031	1.1159
+4	238 m^3	0.6876	bird	Computer Science	0.3005	66	ice hockey	563 kg/s	908	1330	tennis	0.8231	0.0612	383	0.5197
+4	203 m^3	1.1524	bird	Computer Science, Applied Mathematics	1.4174	344	ice hockey	951 kg/s	1076	1149	tennis	0.9326	-0.0633	543	0.9496
+0	1334 m^3	0.5065	fish	Computational Media, Bioinformatics	0.8375	723	VOLLEYBALL	591 kg/s	N/A	-194	basketball	0.749	0.271	191	0.6956
+0	1075 m^3	0.6412	RABBIT	Statistics, Bioinformatics	0.5816	917	golf	934 kg/s	-7	-63	basketball	0.3492	0.6674	719	0.6726
+4	227 m^3	1.1942	reptile	Computer Engineering, Bioengineering, Computer Science	1.1232	40	ice hockey	604 kg/s	748	972	basketball	0.9057	-0.1347	281	0.3054
+5	903 m^3	1.056	guinea pig	Games and Playable Media, Biotechnology, Technology and Information Management, Electrical Engineering	0.8876	1014	running	-326 kg/s	894	1492	golf, badminton, track & field	0.6662	1.1807	728	0.9804
+4	-148 m^3	0.8265	bird	Computer Engineering, Bioengineering, Applied Mathematics	None	-173	ice hockey	661 kg/s	1467	544	tennis	0.5925	-0.0559	522	0.9882
+0	962 m^3	0.4953	RABBIT	Computational Media	0.942	952	volleyball	974 kg/s	1142	55	tennis	1.0188	0.5011	407	0.7582
+4	104 m^3	0.8272	reptile	Computer Science, Applied Mathematics, Computer Engineering	1.1262	166	ice hockey	228 kg/s	1114	880	tennis	0.7537	-0.503	265	0.6511
+5	494 m^3	0.8277	guinea pig	Games and Playable Media	0.9451	N/A	football	-91 kg/s	1132	548	track & field, golf	0.7562	1.1865	1077	0.79
+1	1077 m^3	1.1597	dog	Computer Game Design	-0.1953	614	track & field	764 kg/s	886	411	golf, badminton, track & field	1.0459	0.7217	439	0.5981
+0	1112 m^3	0.8307	cat	Bioinformatics	1.2075	903	GOLF	533 kg/s	1452	325	basketball	0.4547	0.2309	927	1.1817
+5	448 m^3	0.688	hamster	Robotics Engineering, Games and Playable Media	0.8304	636	soccer	-119 kg/s	1520	702	golf	0.5977	0.9859	1207	0.8162
+0	1302 m^3	0.7389	rabbit	Bioinformatics	0.46	1031	volleyball	366 kg/s	697	26	basketball	0.7745	0.3447	381	0.9018
+5	633 m^3	0.6518	rat	gAMES AND pLAYABLE mEDIA, tECHNOLOGY AND iNFORMATION mANAGEMENT	0.9467	563	tennis	432 kg/s	1470	1234	badminton	0.4402	1.343	803	1.1358
+2	653 m^3	0.2256	ferret	Computer Game Design	0.9974	1161	baseball	865 kg/s	243	539	volleyball	0.3612	0.3726	853	0.9781
+2	989 m^3	-0.0932	ferret	Computer Game Design	0.6643	658	badminton	779 kg/s	699	385	baseball	-0.0012	0.8528	808	0.746
+3	481 m^3	0.217	chicken	Human Computer Interaction	0.4263	488	motor sports	1356 kg/s	1275	1307	football	0.8597	?	951	0.9936
+5	970 m^3	0.7183	guinea pig	Games and Playable Media, Technology and Information Management	0.8571	1051	football	-68 kg/s	1197	1024	track & field, badminton, ice hockey	0.14	1.4236	939	0.8163
+4	403 m^3	1.3152	bird	Computer Engineering	0.491	8	basketball	889 kg/s	1015	1901	tennis	0.8866	0.0096	765	0.7058
+2	1126 m^3	0.1101	ferret	Computer Game Design	0.975	890	badminton	944 kg/s	-321	647	running	-0.004	1.07	583	0.8884
+1	1658 m^3	1.2783	pig	Data Science	0.4767	391	track & field	879 kg/s	707	606	soccer	0.8814	0.9772	465	0.1238
+5	383 m^3	1.1712	pig	Technology and Information Management	1.0826	971	soccer	-268 kg/s	1050	970	track & field	0.7083	0.8316	934	0.9112
+2	900 m^3	0.0111	ferret	Computer Game Design	1.3367	654	badminton	1183 kg/s	320	?	volleyball, baseball	-0.1229	0.8873	693	1.0774
+1	1256 m^3	1.0181	pig	Data Science	0.1011	277	basketball	1587 kg/s	1073	960	soccer	1.2319	0.3332	256	0.2649
+0	874 m^3	0.3572	rabbit	Computational Media	1.33	945	golf	1269 kg/s	1381	370	basketball	0.9532	0.6579	831	1.2526
+0	1144 m^3	0.5965	cat	Bioinformatics, Computational Media	0.9044	1624	volleyball	764 kg/s	1559	-171	basketball	0.8225	0.548	581	1.1122
+1	956 m^3	0.8474	pig	Data Science	0.589	228	track & field	831 kg/s	711	801	soccer	0.6748	0.7256	181	0.1116
+3	0 m^3	0.526	chicken	Natural Language Processing	1.6013	1143	motor sports	1321 kg/s	632	1118	motor sports	0.9984	0.9714	1116	1.244
+0	1330 m^3	0.7678	rabbit	Computational Media	0.8205	1112	golf	925 kg/s	1238	-185	basketball	0.7086	0.1844	475	0.7008
+5	799 m^3	0.9609	guinea pig	Applied Mathematics, Computer Engineering, Computer Science	0.7141	852	soccer	-126 kg/s	534	1254	ice hockey, badminton	0.0676	0.8589	1446	0.6433
+1	697 m^3	0.8199	pig	Computer Game Design	0.3243	391	track & field	1254 kg/s	706	1102	soccer	0.5369	0.5465	-200	0.4141
+2	874 m^3	0.2785	ferret	Computer Game Design	1.0133	1598	badminton	800 kg/s	734	457	baseball, running	0.1331	0.5088	833	1.0248
+0	879 m^3	0.7083	cat	Bioinformatics, Computational Media	0.3959	905	volleyball	788 kg/s	959	-435	basketball	1.2291	0.2775	509	1.5959
+2	921 m^3	-0.004	ferret	Computer Game Design	0.8099	1152	badminton	1319 kg/s	541	-114	volleyball	0.2876	0.8132	771	None
+2	1608 m^3	0.0658	ferret	Computer Game Design	1.2491	1179	?	779 kg/s	384	180	running	0.0561	0.676	824	0.6912
+1	1052 m^3	1.2306	pig	Data Science	0.495	931	basketball	1117 kg/s	1009	488	soccer	0.9755	0.743	304	-0.1242
+1	1283 m^3	1.1098	pig	Data Science	0.4582	528	boxing	845 kg/s	939	840	soccer	0.9073	0.5673	134	0.4178
+2	1009 m^3	-0.0905	ferret	Computer Game Design	1.0813	1052	badminton	942 kg/s	-6	591	baseball	0.1429	0.5335	681	1.2208
+4	-332 m^3	1.1035	reptile	Bioengineering	0.6087	277	ice hockey	127 kg/s	1016	1555	tennis	0.7096	-0.018	392	0.4422
+1	1325 m^3	1.2437	dog	Data Science	0.3018	358	boxing	1318 kg/s	804	246	soccer	0.6815	0.53	137	0.0659
+1	1196 m^3	1.1069	pig	Data Science	-0.2328	574	basketball	787 kg/s	449	746	soccer	0.829	0.6528	-86	0.51
+3	561 m^3	0.5156	chicken	Natural Language Processing	1.2517	773	motor sports	1156 kg/s	796	1128	motor sports	1.1346	1.1495	526	0.6188
+2	895 m^3	0.1242	ferret	Computer Game Design	0.9468	1170	badminton	680 kg/s	554	192	volleyball, baseball	0.1538	0.5973	423	0.8919
+4	93 m^3	0.9556	bird	Applied Mathematics, Bioengineering, Computer Engineering	0.2421	564	volleyball	?	319	-35	ice hockey	1.0049	0.2185	664	0.7881
+2	587 m^3	-0.1895	ferret	Computer Game Design	0.7602	758	baseball	1195 kg/s	503	335	baseball, running	-0.1171	0.5526	536	0.7061
+4	120 m^3	1.1687	reptile	Bioengineering	0.4271	99	ice hockey	646 kg/s	1140	822	tennis	0.8541	0.4865	638	0.4366
+3	205 m^3	0.1033	chicken	Human Computer Interaction	1.3978	1252	motor sports	968 kg/s	1074	799	tennis	1.2622	0.8389	415	1.107
+0	565 m^3	0.6987	cat	Bioinformatics	1.1528	1414	golf	898 kg/s	1048	-563	basketball	1.16	-0.0932	575	0.5955
+0	1257 m^3	0.8405	rabbit	Bioinformatics	0.8715	1100	ice hockey	1038 kg/s	980	-491	basketball	0.8993	0.5714	685	1.0585
+3	354 m^3	0.321	chicken	Natural Language Processing	0.506	969	motor sports	893 kg/s	780	1292	motor sports	1.2403	0.6936	1146	0.7065
+4	-56 m^3	0.7915	pig	Computer Engineering, Computer Science	0.395	485	ice hockey	123 kg/s	960	1201	tennis	0.7489	0.7366	573	0.9168
+0	1304 m^3	0.6377	rabbit	Bioinformatics	0.4964	819	golf	1426 kg/s	1022	n/a	basketball	1.5895	0.4876	470	0.8689
+5	910 m^3	0.8104	guinea pig	Electrical Engineering, Technology and Information Management	1.1031	463	running	-192 kg/s	974	757	track & field, badminton, ice hockey	0.0394	0.9699	578	1.0776
+2	1448 m^3	-0.0601	ferret	Computer Game Design	1.2451	923	baseball	768 kg/s	679	-63	baseball, running	-0.1764	0.9899	620	1.1571
+1	1319 m^3	1.4475	dog	Data Science	0.1593	350	basketball	1037 kg/s	1230	1012	soccer	1.0117	0.9425	37	0.509
+0	890 m^3	0.5112	rabbit	Computational Media, Bioinformatics	1.1383	1241	golf	1368 kg/s	N/A	148	basketball	1.3509	0.4629	943	0.8561
+3	134 m^3	0.318	chicken	Natural Language Processing	1.0429	1004	motor sports	1001 kg/s	878	1343	football, boxing	0.7257	1.0555	951	0.9555
+4	92 m^3	1.1409	reptile	Bioengineering, Computer Science	1.4294	480	ice hockey	330 kg/s	1051	1238	tennis	0.7926	-0.1912	474	0.7091
+5	751 m^3	1.2323	guinea pig	Games and Playable Media, Electrical Engineering, Biotechnology	1.5242	1304	None	3 kg/s	696	1301	ice hockey	0.4642	1.3247	644	1.4539
+0	1126 m^3	0.7863	rabbit	Bioinformatics, Computational Media	1.1	1477	volleyball	1268 kg/s	1218	-62	basketball	0.7193	0.1844	1027	0.8508
+4	345 m^3	0.8803	reptile	Bioengineering, Computer Science	1.0761	307	ice hockey	323 kg/s	819	767	tennis	0.9895	-0.034	461	0.7669
+4	408 m^3	1.0425	ferret	Computer Engineering	0.826	311	ice hockey	273 kg/s	959	1444	N/A	0.9299	0.0566	431	0.8748
+2	876 m^3	-0.6943	ferret	Computer Game Design	0.6877	1248	badminton	1061 kg/s	635	324	baseball, running	0.3512	1.2864	877	0.8742
+1	998 m^3	1.0424	pig	Data Science	0.8773	817	track & field	919 kg/s	1120	524	soccer	0.7338	0.8161	581	0.171
+0	738 m^3	0.2536	fish	Computational Media	0.8539	1671	golf	489 kg/s	962	286	basketball	1.2354	0.2395	1004	0.7406
+0	946 m^3	0.575	fish	Bioinformatics, Statistics	0.4284	961	golf	926 kg/s	1184	67	basketball	0.6175	0.4729	374	1.293
+3	-130 m^3	0.5102	chicken	Human Computer Interaction	1.0398	942	motor sports	1061 kg/s	995	602	football	0.9803	1.2103	944	0.98
+2	1117 m^3	-0.002	ferret	COMPUTER GAME DESIGN	1.3544	1113	baseball	628 kg/s	450	117	volleyball	-0.0898	1.2718	760	1.1025
+0	682 m^3	0.2604	fish	Statistics, Bioinformatics	0.9444	1204	motor sports	1071 kg/s	630	-71	basketball	0.8989	0.5831	630	0.796
+4	184 m^3	1.0659	bird	Computer Science, Computer Engineering	0.9961	337	ice hockey	360 kg/s	1687	1738	tennis	1.1934	-0.1667	393	0.7382
+4	180 m^3	1.1504	bird	Bioengineering, Computer Science	0.8813	575	ICE HOCKEY	42 kg/s	1265	1272	tennis	1.0427	0.194	768	0.5474
+5	659 m^3	1.0663	rat	robotics engineering, electrical engineering	1.6147	1151	track & field	41 kg/s	925	744	basketball	0.8788	0.9074	779	0.9823
+0	1228 m^3	0.423	fish	Computational Media, Bioinformatics	0.2952	1060	golf	981 kg/s	1451	116	basketball	0.8412	0.4761	463	0.8587
+0	1341 m^3	0.4179	cat	Statistics, Bioinformatics	0.428	712	golf	325 kg/s	476	145	basketball	1.0592	-0.0393	768	1.0933
+2	712 m^3	-0.1149	ferret	Computer Game Design	0.7352	1172	track & field	832 kg/s	304	276	volleyball	-0.4094	0.5957	777	1.467
+0	769 m^3	0.3161	cat	Statistics, Bioinformatics	0.735	902	golf	949 kg/s	1358	59	Basketball	0.6862	0.4117	n/a	0.6026
+1	994 m^3	0.6926	pig	Statistics, Bioinformatics	0.5472	662	boxing	1278 kg/s	555	976	soccer	0.6638	0.6945	550	0.0997
+3	554 m^3	0.359	chicken	Natural Language Processing	1.5331	435	motor sports	819 kg/s	733	552	motor sports	1.1538	0.8998	769	1.1802
+3	391 m^3	0.4477	chicken	Human Computer Interaction	0.8582	1440	tennis	1002 kg/s	1050	179	motor sports, boxing	1.0655	0.7991	550	1.3842
+0	719 m^3	0.6504	fish	Statistics	0.6868	1343	volleyball	931 kg/s	961	26	basketball	0.8148	0.2064	231	1.1775
+1	774 m^3	1.3737	?	Data Science	0.5923	260	boxing	992 kg/s	1093	982	soccer	1.0073	1.1007	771	0.1315
+1	877 m^3	0.9672	dog	Data Science	0.2934	332	basketball	1033 kg/s	1063	1407	soccer	0.5678	0.4984	181	-0.2819
+5	934 m^3	1.1444	rat	Biotechnology, Technology and Information Management, Electrical Engineering, Robotics Engineering	1.0904	394	tennis	11 kg/s	1396	1408	track & field, ice hockey	0.2532	0.6436	840	0.8876
+4	5 m^3	1.2554	chicken	Computer Science, Applied Mathematics, Bioengineering	1.2186	254	ice hockey	912 kg/s	1354	1041	tennis	1.1904	-0.0694	525	0.6414
+2	1162 m^3	0.2065	ferret	Computer Game Design	1.0334	967	baseball	911 kg/s	318	800	volleyball, baseball	0.2404	0.6257	925	1.4242
+2	989 m^3	-0.2725	ferret	Computer Game Design	0.7745	638	badminton	1360 kg/s	933	214	baseball, running	0.1733	0.9663	864	0.7724
+5	811 m^3	0.7882	guinea pig	Robotics Engineering, Games and Playable Media, Electrical Engineering	0.8502	614	tennis	37 kg/s	408	959	ice hockey	0.4925	1.1517	1070	0.9016
+3	326 m^3	0.658	chicken	Natural Language Processing	0.9306	630	motor sports	900 kg/s	894	1134	motor sports, football	0.8275	1.3731	919	0.999
+4	-159 m^3	0.9235	bird	Computer Science, Computer Engineering	0.3259	150	ice hockey	848 kg/s	1053	986	tennis	0.9457	-0.4569	483	0.5648
+3	529 m^3	0.1142	CHICKEN	Natural Language Processing	1.2618	921	motor sports	1124 kg/s	1447	1117	motor sports	1.6445	0.9763	1007	0.5716
+5	758 m^3	1.1122	hamster	Electrical Engineering, Technology and Information Management, Robotics Engineering, Games and Playable Media	1.3333	998	football	284 kg/s	693	920	ice hockey, badminton, track & field	0.2822	1.0573	731	0.7617
+0	1188 m^3	0.6185	cat	Computational Media	1.3552	1426	volleyball	855 kg/s	1127	118	basketball	1.166	0.0393	763	1.1199
+5	650 m^3	1.1603	rat	Electrical Engineering, Biotechnology	0.7093	119	soccer	182 kg/s	289	847	golf, ice hockey	0.5577	0.6372	1007	0.9783
+4	-312 m^3	0.9952	bird	Computer Engineering, Bioengineering	0.8039	560	ice hockey	816 kg/s	1052	848	tennis	1.2047	-0.1884	647	0.4387
+5	839 m^3	0.7668	guinea pig	Robotics Engineering, Technology and Information Management, Biotechnology, Games and Playable Media	1.05	797	soccer	-52 kg/s	1200	1280	golf, track & field, badminton	0.5029	0.703	1120	0.7002
+5	506 m^3	0.7604	hamster	ROBOTICS ENGINEERING	1.5557	774	football	371 kg/s	793	1221	badminton, track & field, ice hockey	0.5668	0.7194	813	1.0987
+4	183 m^3	0.8778	bird	Computer Science, Computer Engineering, Bioengineering	0.9193	87	ice hockey	477 kg/s	1049	1331	tennis	1.1745	0.275	442	0.9547
+2	1090 m^3	-0.1457	ferret	Computer Game Design	1.3487	859	baseball	975 kg/s	335	280	baseball	0.1741	0.5974	712	0.7382
+2	1046 m^3	0.0492	Ferret	Computer Game Design	1.0329	1042	badminton	956 kg/s	139	42	volleyball, running	0.3663	0.7579	825	1.2388
+4	138 m^3	1.4413	bird	Computer Science	1.3644	-231	Boxing	767 kg/s	1307	1150	tennis	0.6912	0.2241	682	0.87
+1	882 m^3	1.1343	pig	Data Science	0.3103	640	basketball	1425 kg/s	758	800	soccer	0.7171	0.6522	355	0.2238
+4	325 m^3	1.0717	bird	Bioengineering	0.7734	260	ice hockey	518 kg/s	1376	922	TENNIS	0.793	0.1175	516	0.8999
+4	-108 m^3	1.1229	rabbit	Computer Engineering, Computer Science	0.7631	392	ICE HOCKEY	462 kg/s	988	1282	tennis	1.1526	0.0684	774	1.0355
+1	1410 m^3	0.8285	dog	Data Science		1004	boxing	752 kg/s	1055	1159	soccer	0.834	0.8305	-9	0.3591
+1	1377 m^3	0.955	dog	Data Science	0.0767	950	boxing	1014 kg/s	1185	1196	soccer	0.9604	0.8029	349	-0.2487
+4	261 m^3	0.8615	reptile	Computer Science, Bioengineering, Applied Mathematics	1.5613	-14	ice hockey	172 kg/s	1356	527	tennis	0.9299	-0.2843	167	0.9535
+5	603 m^3	0.5177	N/A	ROBOTICS ENGINEERING, ELECTRICAL ENGINEERING, TECHNOLOGY AND INFORMATION MANAGEMENT	1.177	865	football	-160 kg/s	986	1553	badminton	0.5936	1.024	950	0.9942
+2	882 m^3	0.2175	chicken	Computer Game Design	0.8787	979	running	1307 kg/s	216	-211	volleyball, running	0.3147	0.7006	633	0.5037
+4	249 m^3	1.3874	reptile	Applied Mathematics, Computer Engineering	0.7892	476	ice hockey	988 kg/s	358	1536	tennis	1.2578	-0.3781	333	0.7727
+3	120 m^3	0.4172	chicken	Data Science	1.6334	672	motor sports	998 kg/s	902	1316	football	1.1867	1.5148	764	0.9518
+4	48 m^3	1.1217	bird	Bioengineering, Applied Mathematics, Computer Engineering	0.3518	187	ice hockey	556 kg/s	1168	803	tennis	1.0234	0.2408	660	0.6793
+4	-136 m^3	0.991	reptile	Applied Mathematics	0.7398	71	ice hockey	418 kg/s	892	721	tennis	0.7698	-0.2729	491	0.8855
+3	190 m^3	0.1464	chicken	Human Computer Interaction	0.8631	1173	motor sports	754 kg/s	761	792	boxing	0.9026	0.7615	914	1.3673
+0	1168 m^3	0.6529	ferret	Bioinformatics, Computational Media	0.9026	994	golf	690 kg/s	428	511	basketball	0.835	0.1748	926	0.9749
+4	-214 m^3	1.0141	bird	Bioengineering	0.5487	-691	ice hockey	494 kg/s	790	1856	tennis	0.9932	-0.2617	753	0.3334
+5	665 m^3	0.7039	rat	Electrical Engineering	1.4327	1348	running	-44 kg/s	1001	795	soccer	0.5366	1.6189	860	0.7706
+0	1109 m^3	0.506	fish	Statistics, Computational Media	0.5948	846	volleyball	956 kg/s	1033	-64	BASKETBALL	0.9159	0.1704	453	0.6007
+1	658 m^3	1.0674	dog	Data Science	-0.1429	433	basketball	677 kg/s	975	1100	soccer	0.9827	1.0039	515	0.1013
+0	747 m^3	0.3217	rabbit	Bioinformatics, Statistics	0.7775	930	golf	875 kg/s	842	1	basketball	0.8319	0.2908	445	0.7433
+5	722 m^3	0.8585	HAMSTER	technology and information management, games and playable media, biotechnology, electrical engineering	1.2249	547	tennis	325 kg/s	623	741	track & field, golf, ice hockey	0.3404	1.0225	1183	1.2351
+2	1170 m^3	-0.3479	reptile	Computer Game Design	1.042	546	baseball	955 kg/s	989	653	volleyball, baseball	0.0634	0.8266	883	1.0969
+0	622 m^3	0.6052	cat	Computational Media, Bioinformatics	0.5042	696	volleyball	1431 kg/s	597	543	basketball	0.9367	0.5196	152	1.2417
+1	1207 m^3	1.4723	pig	Data Science	0.7506	735	motor sports	1082 kg/s	1031	916	soccer	0.7928	1.1022	172	0.3375
+4	-241 m^3	0.7536	reptile	Applied Mathematics, Bioengineering	1.2298	754	ice hockey	479 kg/s	780	1066	tennis	1.1304	0.2952	606	0.8115
+4	391 m^3	0.6204	reptile	Bioengineering, Computer Engineering	0.7846	985	ice hockey	948 kg/s	799	500	tennis	0.9483	-0.152	559	0.6982
+2	919 m^3	0.1089	ferret	Computer Game Design	0.456	1244	baseball	327 kg/s	371	487	volleyball	-0.0224	0.9985	328	0.6814
+1	1359 m^3	1.0254	pig	Data Science	-0.1017	972	boxing	828 kg/s	615	1751	soccer	1.1511	0.7642	354	0.3827
+5	784 m^3	0.5158	guinea pig	Electrical Engineering, Biotechnology	0.9345	837	tennis	-308 kg/s	1494	1128	track & field, golf, badminton	0.8788	0.8892	821	0.8491
+0	?	0.7453	fish	Computational Media, Bioinformatics	0.3077	1004	golf	1656 kg/s	1275	-382	basketball	0.7731	0.359	296	1.1761
+5	898 m^3	0.7172	rat	Technology and Information Management	1.4596	594	VOLLEYBALL	-348 kg/s	1352	1210	ice hockey, golf, track & field	0.3562	1.1711	1006	1.1724
+0	719 m^3	0.3694	cat	Statistics, Bioinformatics	0.448	1117	golf	1454 kg/s	940	230	basketball	1.3717	0.3445	628	1.4781
+1	642 m^3	0.9854	pig	Data Science	0.5525	561	track & field	1084 kg/s	1104	1080	soccer	1.1959	0.3181	169	0.384
+3	857 m^3	0.198	CHICKEN	Human Computer Interaction	0.6913	799	motor sports	1138 kg/s	1169	N/A	football, motor sports	0.9075	1.1672	764	1.5803
+3	-127 m^3	-0.0011	chicken	Natural Language Processing	0.7792	591	motor sports	698 kg/s	668	566	motor sports	0.8211	0.7389	964	1.5492
+0	1275 m^3	0.8605	rabbit	Bioinformatics, Computational Media	0.7576	1029	Volleyball	811 kg/s	1108	-27	basketball	1.0281	0.7085	302	0.8771
+4	10 m^3	0.8569	reptile	Applied Mathematics, Bioengineering, Computer Engineering	0.9711	231	ice hockey	692 kg/s	484	931	tennis	0.7666	-0.0088	348	0.9619
+3	356 m^3	0.423	chicken	Human Computer Interaction	1.5268	1375	motor sports	816 kg/s	1321	652	motor sports	0.9149	0.9237	916	1.1606
+4	-25 m^3	0.8438	bird	Applied Mathematics	1.1617	-360	football	702 kg/s	1401	1274	tennis	1.212	-0.0081	793	0.7677
+4	155 m^3	1.0855	bird		1.2757	95	ice hockey	600 kg/s	593	936	tennis	0.5769	0.2062	372	0.2812
+1	925 m^3	0.728	dog	DATA SCIENCE	0.2941	616	track & field	804 kg/s	364	1549	soccer	0.9802	0.8378	320	0.4225
+0	933 m^3	0.9085	cat	Statistics	0.6884	857	track & field	813 kg/s	n/a	126	basketball	0.4302	0.3441	672	1.3072
+0	926 m^3	0.6516	fish	Computational Media, Statistics	0.1749	575	ice hockey	1070 kg/s	1191	-96	basketball	0.7686	0.3528	696	0.7399
+1	1127 m^3	1.1591	dog	Data Science	0.4451	578	track & field	1238 kg/s	580	887	soccer	1.0053	0.4488	309	0.373
+1	1276 m^3	0.9199	pig	Data Science	0.0555	736	track & field	924 kg/s	379	793	soccer	0.5807	0.5683	18	0.4109
+5	756 m^3	0.7529	hamster	Technology and Information Management, Electrical Engineering, Biotechnology	0.3927	795	soccer	-372 kg/s	1083	1641	track & field, badminton	0.2408	0.5873	674	0.9085
+4	-35 m^3	0.8294	reptile	Bioengineering	1.2243	15	ice hockey	669 kg/s	1220	1812	tennis	1.0772	-0.1025	741	0.7314
+5	590 m^3	0.7035	rat	Biotechnology, Games and Playable Media, Electrical Engineering	1.0432	889	tennis	8 kg/s	1472	963	badminton, track & field, ice hockey	0.5519	0.9051	1132	0.7785
+3	608 m^3	0.5769	chicken	Human Computer Interaction	0.531	1074	motor sports	1150 kg/s	522	405	football	1.0843	1.0107	1170	1.0423
+0	1173 m^3	0.2569	rabbit	Computational Media	1.2685	1088	volleyball	1275 kg/s	1029	-346	basketball	0.9991	0.1962	492	1.4702
+1	1349 m^3	0.7042	fish	Data Science	0.2273	892	basketball	1175 kg/s	1401	748	soccer	0.7868	0.7168	37	0.34
+5	569 m^3	0.9178	guinea pig	Electrical Engineering, Games and Playable Media	1.0299	261	running	359 kg/s	566	1502	badminton	0.3256	0.9611	1076	0.9496
+5	282 m^3	0.9993	rat	Technology and Information Management, Electrical Engineering, Robotics Engineering, Games and Playable Media	1.012	903	football	139 kg/s	1218	1068	volleyball, baseball	0.441	0.9918	1137	0.9248
+5	826 m^3	0.6923	guinea pig	Robotics Engineering, Biotechnology, Technology and Information Management, Electrical Engineering	0.9798	780	football	66 kg/s	1793	1788	badminton, ice hockey	0.5264	0.7178	750	0.6755
+5	562 m^3	0.7106	guinea pig	Bioinformatics, Statistics	0.4271	1157	running	-289 kg/s	1044	1895	golf, track & field	0.4985	1.0056	778	0.6427
+2	705 m^3	0.025	ferret	Computer Game Design	1.0095	568	baseball	1143 kg/s	-40	441	baseball, running	-0.1498	0.8494	658	1.1578
+0	859 m^3	0.6558	rabbit	Computer Game Design	0.6321	793	volleyball	680 kg/s	1099	355	basketball	0.9736	0.598	730	1.1499
+4	143 m^3	0.792	reptile	Bioengineering, Applied Mathematics, Computer Engineering	0.6787	508	baseball	740 kg/s	750	527	tennis	1.0806	-0.4335	324	0.8579
+3	422 m^3	0.0286	chicken	Computer Game Design	1.0206	721	motor sports	779 kg/s	1369	928	football, boxing	1.0332	1.202	1565	1.2893
+2	924 m^3	0.0981	ferret	Computer Game Design	1.0626	725	baseball	1240 kg/s	531	359	baseball	-0.1664	0.771	962	1.2215
+1	816 m^3	0.6728	None	Data Science	0.4031	506	basketball	1044 kg/s	889	736	soccer	1.0636	0.7845	None	0.4014
+0	1175 m^3	0.5041	rabbit	Statistics	0.6383	940	volleyball	1225 kg/s	1299	297	basketball	0.4914	0.4127	767	1.4883
+5	896 m^3	0.7102	hamster	Biotechnology, Technology and Information Management, Games and Playable Media	0.8153	1057	ice hockey	-301 kg/s	713	1105	golf, badminton	0.4184	0.988	1130	1.0297
+0	1027 m^3	0.7395	fish	Statistics, Bioinformatics	0.7697	945	baseball	999 kg/s	757	391	basketball	0.8034	0.0016	593	0.9808
+0	1142 m^3	0.5733	rabbit	Computational Media, Bioinformatics	1.192	710	golf	1099 kg/s	797	0	basketball	0.7374	0.2134	877	1.352
+2	925 m^3	0.1796	ferret	Computer Game Design	0.9988	985	baseball	1015 kg/s	327	-90	running, volleyball	0.0571	0.6806	366	0.8835
+2	1223 m^3	0.0409	ferret	Computer Game Design	0.8988	1353	badminton	1794 kg/s	398	579	basketball	0.2416	n/a	482	0.5819
+3	773 m^3	0.2584	chicken	Human Computer Interaction	0.6388	1145	motor sports	862 kg/s	370	1071	football, boxing	0.8284	1.0029	1384	1.2873
+0	1062 m^3	0.3321	fish	Computational Media	0.6965	631	golf	890 kg/s	648	266	basketball	0.1513	0.3068	662	1.1736
+2	1186 m^3	0.4584	chicken	Computer Game Design	0.9281	467	baseball	533 kg/s	163	710	ice hockey	-0.3665	0.4941	796	1.2439
+3	292 m^3	0.2737	chicken	Human Computer Interaction	0.5592	1075	motor sports	944 kg/s	1529	424	motor sports	1.1668	0.7839	1025	0.7475
+2	893 m^3	0.2176	ferret	Computer Game Design	1.1686	1005	badminton	831 kg/s	706	459	baseball	-0.3574	0.8894	537	1.3113
+5	410 m^3	0.7911	hamster	Robotics Engineering, Biotechnology	1.3762	599	running	-96 kg/s	1277	1147	GOLF, BADMINTON	0.3076	1.0168	1122	0.9516
+5	942 m^3	0.739	rat	Computer Game Design	0.6867	1540	tennis	139 kg/s	780	1032	badminton, golf, track & field	0.0689	1.3175	1367	0.3916
+5	960 m^3	1.1603	hamster	Biotechnology, Robotics Engineering	0.8882	974	soccer	-4 kg/s	663	1165	golf, track & field, ice hockey	0.9023	1.2846	861	0.9365
+2	969 m^3	-0.0595	ferret	Computer Game Design	0.4091	NULL	badminton	995 kg/s	325	12	volleyball, running	0.5109	0.7213	1223	1.3307
+1	1131 m^3	0.8974	dog	Data Science	0.5349	593	track & field	1083 kg/s	1134	?	SOCCER	1.0731	1.0659	81	0.1599
+4	-112 m^3	1.0062	bird	Bioengineering	0.3659	314	ice hockey	462 kg/s	1164	1422	TENNIS	0.6893	0.0698	530	0.7401
+3	272 m^3	0.3854	chicken	Natural Language Processing	1.0833	1134		1116 kg/s	1000	729	football, boxing	0.9503	0.6355	892	1.068
+3	763 m^3	0.4548	CHICKEN	human computer interaction	0.8732	620	motor sports	1006 kg/s	907	1705	motor sports, boxing	0.9475	0.9453	1296	1.2306
+2	813 m^3	0.1127	ferret	Computer Game Design	1.5895	1535	baseball	1007 kg/s	74	212	running	-0.175	0.6997	1095	0.9297
+0	690 m^3	0.296	bird	None	1.3721	1240	golf	1118 kg/s	742	-69	basketball	1.3402	0.4707	664	0.7387
+0	1064 m^3	0.6506	rabbit	Bioinformatics	0.1759	1538	volleyball	989 kg/s	1120	-427	basketball	0.7451	0.8241	1051	0.8252
+3	221 m^3	0.241	chicken	Human Computer Interaction	1.0575	1016	motor sports	843 kg/s	756	1094	boxing, football	1.2779	0.6297	976	1.0428
+2	1092 m^3	0.2085	ferret	Computer Game Design	1.0768	929	badminton	750 kg/s	552	244	running, volleyball	-0.011	0.8408	1276	0.7185
+1	716 m^3	0.9724	dog	Data Science	-0.0503	420	boxing	1074 kg/s	980	1443	soccer	0.7778	0.6453	162	0.4042
+2	864 m^3	0.2076	ferret	Computer Game Design	0.7613	553	badminton	1402 kg/s	641	776	baseball, volleyball	0.4521	1.0579	974	1.0865
+1	981 m^3	0.8443	pig	Data Science	0.2529	420	basketball	977 kg/s	1138	1319	soccer	0.6863	0.8663	346	-0.0218
+4	126 m^3	1.0807	reptile	Computer Science, Applied Mathematics, Bioengineering	0.8781	496	ice hockey	-148 kg/s	1752	1092	tennis	0.7696	0.3197	280	0.6339
+2	882 m^3	-0.0896	ferret	Computer Game Design	0.9611	1185	badminton	1294 kg/s	120	856	volleyball	0.0961	0.5093	1146	0.6705
+3	273 m^3	0.8394	chicken	Natural Language Processing	1.0013	872	motor sports	926 kg/s	660	1228	motor sports	0.8061	1.2413	686	1.1861
+1	1207 m^3	0.7323	dog	Data Science	0.1797	749	basketball	1083 kg/s	1071	603	soccer	0.8807	0.618	777	0.1799
+4	-220 m^3	1.0676	reptile	Bioengineering, Computer Science	0.9172	369	ice hockey	660 kg/s	717	1075	tennis	1.0209	-0.0668	319	1.5807
+0	1037 m^3	0.0432	cat	Statistics	0.9942	1244	baseball	1255 kg/s	1407	-273	basketball	0.8139	0.2534	128	1.3553
+3	-71 m^3	0.4843	chicken	Human Computer Interaction	1.2064	917	motor sports	964 kg/s	1481	768	football, boxing	1.2601	1.4255	549	0.6551
+2	1026 m^3	-0.0552	ferret	Computer Game Design	0.9952	963	badminton	871 kg/s	200	1015	baseball, volleyball	0.1915	1.1437	806	1.3883
+0	956 m^3	0.4499	fish	Statistics	0.4502	857	volleyball	694 kg/s	492	461	basketball	1.0374	0.5057	356	0.8285
+2	890 m^3	0.1624	ferret	Computer Game Design	1.0622	946	badminton	1061 kg/s	435	915	running	-0.2331	1.0585	487	1.1434
+4	-191 m^3	0.9594	reptile	APPLIED MATHEMATICS	0.5252	315	ice hockey	390 kg/s	1294	1208	tennis	0.5305	0.2571	704	0.9212
+2	1002 m^3	-0.0421	ferret	Computer Game Design	0.4835	1007	badminton	1111 kg/s	97	511	running, baseball	0.297	0.6688	1079	0.5346
+5	464 m^3	0.9414	guinea pig	Technology and Information Management, Robotics Engineering	0.9232	839	running	-339 kg/s	1066	618	ice hockey	0.5953	0.7142	936	1.1644
+1	N/A	0.5781	pig	Data Science	0.1165	636	basketball	1072 kg/s	976	584	soccer	1.0169	0.6152	202	0.3675
+0	915 m^3	1.256	rabbit	Bioinformatics, Statistics	0.7404	575	volleyball	814 kg/s	1119	382	basketball	0.7629	0.2005	459	0.9072
+0	1233 m^3	0.6976	cat	Statistics, Bioinformatics	0.8956	968	volleyball	1308 kg/s	704	-773	basketball	0.8983	-0.0864	820	0.6615
+0	491 m^3	0.8625	rabbit	Statistics	0.4692	1095	golf	965 kg/s	1324	26	basketball	0.7739	0.1726	858	1.2824
+2	823 m^3	-0.0642	ferret	Computer Game Design	0.8466	1308	baseball	903 kg/s	1078	645	volleyball	-0.2308	1.0963	520	1.416
+0	748 m^3	0.6873	rabbit	Computer Game Design	0.7479	1016	golf	725 kg/s	551	-444	basketball	1.4457	0.1448	668	1.3781
+4	-329 m^3	0.9103	bird	Computer Science	0.9532	571	volleyball	595 kg/s	949	283	tennis	1.3962	-0.1794	705	0.8772
+5	905 m^3	0.7654	hamster	Robotics Engineering, Games and Playable Media, Biotechnology	1.5046	812	tennis	174 kg/s	304	681	track & field	0.5104	1.0547	1112	0.8247
+4	229 m^3	1.1483	reptile	Computer Science	0.1767	551	ice hockey	885 kg/s	716	838	tennis	0.9496	-0.0612	829	0.4716
+2	1358 m^3	0.2755	ferret	Computer Game Design	1.002	862	baseball	1427 kg/s	310	421	baseball, running	0.1567	1.0579	707	1.0446
+4	421 m^3	1.1937	bird	Computer Science, Bioengineering, Applied Mathematics	0.8571	-47	ice hockey	855 kg/s	724	1460	basketball	0.9459	0.0908	677	0.5903
+3	109 m^3	0.3422	chicken	Human Computer Interaction	0.9797	1243	motor sports	1111 kg/s	837	1230	football	1.3649	0.6776	864	1.0869
+2	1038 m^3	0.1329	ferret	Computer Game Design	0.8167	1259	baseball	939 kg/s	581	436	volleyball, baseball	n/a	0.3823	624	0.9264
+0	957 m^3	0.5058	cat	Statistics	0.3393	1442	volleyball	1207 kg/s	1205	-257	basketball	0.8036	0.358	567	0.7634
+3	636 m^3	0.6145	chicken	Human Computer Interaction	0.8082	883	motor sports	742 kg/s	1421	760	football	0.6684	1.1617	397	1.1363
+3	89 m^3	0.3575	chicken	Human Computer Interaction	0.8708	945	motor sports	1021 kg/s	546	706	boxing, motor sports	0.8069	1.193	1038	1.0444
+1	1014 m^3	1.475	pig	Data Science	0.0878	612	track & field	1149 kg/s	1101	1108	soccer	0.35	0.7374	705	0.2228
+5	878 m^3	0.8768	guinea pig	Technology and Information Management, Games and Playable Media	1.768	775	football	368 kg/s	1424	580	ice hockey	0.4235	0.6778	786	1.0419
+5	1041 m^3	1.0545	guinea pig	Robotics Engineering, Biotechnology, Games and Playable Media, Technology and Information Management	0.7124	1346	soccer	-344 kg/s	1084	754	golf	0.6232	0.9425	741	1.1933
+0	1003 m^3	0.3997	rat	Statistics, Computational Media	0.5378	983	boxing	1165 kg/s	635	229	basketball	0.7159	0.093	633	0.9185
+3	404 m^3	0.4445	chicken	Natural Language Processing	0.4814	903	motor sports	999 kg/s	1073	1050	football, boxing	0.9985	0.9292	602	1.0799
+1	995 m^3	0.919	dog	Data Science	0.4211	405	boxing	1270 kg/s	762	795	soccer	0.8011	0.7196	-200	0.4602
+0	697 m^3	0.3423	rat	Statistics	0.4904	715	golf	1374 kg/s	467	-588	basketball	1.1036	0.6355	581	?
+2	1400 m^3	0.0531	hamster	Computer Game Design	0.6114	1331	Badminton	877 kg/s	982	936	volleyball, baseball	0.4715	0.7482	1210	0.8153
+4	-42 m^3	1.0337	chicken	Computer Science, Bioengineering	0.6378	202	ice hockey	177 kg/s	1354	1065	tennis	0.9894	-0.2666	711	0.8996
+0	1032 m^3	0.5573	fish	Statistics	0.7863	1012	volleyball	728 kg/s	921	-20	basketball	0.9342	0.3678	239	0.9673
+5	844 m^3	1.0844	rat	Games and Playable Media	1.0584	807	tennis	128 kg/s	299	1122	badminton, track & field	0.1357	1.2166	564	0.5457
+3	211 m^3	0.0115	pig	Human Computer Interaction	1.3091	1291	motor sports	1269 kg/s	754	1191	motor sports, boxing	1.1509	0.8925	743	1.313
+0	1228 m^3	0.7249	ferret	Computational Media	0.7143	882	golf	1010 kg/s	1187	147	basketball	1.0217	0.1238	736	1.828
+4	379 m^3	1.2241	bird	Applied Mathematics, Bioengineering, Computer Engineering	1.1834	-122	ice hockey	-198 kg/s	786	1279	tennis	1.0547	0.1453	1054	1.1585
+5	375 m^3	0.6714	guinea pig	Biotechnology, Robotics Engineering	1.0047	1001	tennis	271 kg/s	1290	1561	golf	0.0572	0.362	901	1.029
+5	778 m^3	0.7472	rat	Games and Playable Media	1.2833	802	soccer	-320 kg/s	756	1000	golf, ice hockey, badminton	0.1807	1.0817	1229	1.0206
+1	915 m^3	1.0218	pig	Data Science	0.8666	521	boxing	902 kg/s	1273	-20	soccer	1.0626	0.4354	663	0.2908
+5	822 m^3	0.9873	guinea pig	Robotics Engineering, Technology and Information Management, Biotechnology, Games and Playable Media	1.2049	589	football	-401 kg/s	880	1325	golf	0.2758	0.5974	889	0.8454
+0	1203 m^3	0.3428	cat	Bioinformatics, Statistics	0.4216	1055	volleyball	750 kg/s	301	226	basketball	0.8027	0.2365	918	1.281
+2	668 m^3	0.172	ferret	Computer Game Design	1.1466	1088	baseball	779 kg/s	210	820	running, baseball	0.075	0.7198	465	0.8358
+3	513 m^3	0.64	chicken	Human Computer Interaction	0.6582	1037	motor sports	588 kg/s	1005	814	football, motor sports	0.6495	0.8308	1012	0.8304
+3	-20 m^3	0.6867	chicken	Natural Language Processing	1.0455	373	motor sports	1211 kg/s	1258	910	motor sports	0.8734	0.5728	1104	0.5093
+4	-82 m^3	1.2254	reptile	Computer Game Design	1.0253	424	ice hockey	712 kg/s	873	1175	tennis	0.944	0.1036	283	0.7809
+5	1132 m^3	0.472	hamster	Technology and Information Management, Robotics Engineering, Games and Playable Media, Electrical Engineering	0.9254	983	track & field	NULL	957	1177	badminton, track & field	0.7403	0.859	927	0.908
+3	349 m^3	0.4897	chicken	Natural Language Processing	1.2244	904	motor sports	1205 kg/s	1436	1292	football	0.7289	1.1403	938	0.9632
+1	1052 m^3	1.5388	pig	Data Science	0.6641	514	boxing	723 kg/s	589	747	soccer	0.8982	0.823	-86	0.5805
+0	588 m^3	0.895	rabbit	Computational Media, Bioinformatics	0.8408	1050	volleyball	964 kg/s	837	367	basketball	0.4826	0.4925	1135	1.2908
+5	606 m^3	0.8448	rat	Electrical Engineering, Technology and Information Management, Games and Playable Media	0.4549	940	soccer	-7 kg/s	1088	1257	badminton	0.4543	1.4613	1255	1.2812
+0	1124 m^3	0.2639	cat	Statistics, Computational Media	1.0997	890	volleyball	974 kg/s	1179	232	basketball	1.028	0.1266	821	1.2862
+1	1095 m^3	1.2813	dog	Data Science	0.1606	624	track & field	947 kg/s	1149	664	Soccer	1.2185	0.8096	369	0.409
+4	160 m^3	0.9614	reptile	Bioengineering, Applied Mathematics	0.6156	-39	ice hockey	772 kg/s	1279	849	tennis	1.2374	-0.0997	12	1.0046
+5	903 m^3	0.8202	rat	Electrical Engineering, Technology and Information Management, Biotechnology	0.8144	596	ice hockey	-322 kg/s	999	1333	golf, track & field	0.2908	1.1296	708	0.7721
+4	226 m^3	0.7906	REPTILE	Computer Science	1.1799	63	ice hockey	64 kg/s	975	1291	tennis	1.1276	0.1866	188	1.129
+5	834 m^3	0.6606	guinea pig	bIOTECHNOLOGY, gAMES AND pLAYABLE mEDIA	0.7782	1109	soccer	-450 kg/s	1049	702	tennis	0.2095	1.1877	900	0.7678
+5	868 m^3	0.4011	rat	Biotechnology, Games and Playable Media	1.5553	986	soccer	-187 kg/s	712	997	track & field	0.4888	1.2406	1165	0.8364
+3	369 m^3	0.1129	chicken	Human Computer Interaction	0.7654	1314	motor sports	972 kg/s	985	1208	football	0.9727	0.9526	1146	0.6143
+4	-8 m^3	1.418	bird	Applied Mathematics	1.0559	371	ice hockey	1026 kg/s	564	573	tennis	0.7765	0.0441	883	0.5261
+3	412 m^3	0.2312	chicken	Human Computer Interaction	1.1088	959	motor sports	867 kg/s	718	577	boxing, football	1.1532	0.7747	1228	1.1084
+5	667 m^3	0.7338	dog	Games and Playable Media, Technology and Information Management, Biotechnology	0.8666	450	motor sports	203 kg/s	449	?	ice hockey, badminton, golf	0.0783	1.2596	1011	1.6359
+3	55 m^3	0.2438	chicken	Natural Language Processing	1.0184	923	motor sports	1277 kg/s	1216	1167	football	1.1659	1.0606	759	0.7886
+5	1135 m^3	0.6683	bird	Games and Playable Media	1.5581	623	badminton	301 kg/s	966	1430	golf, badminton, track & field	0.2374	1.1251	1244	0.8478
+3	125 m^3	-0.0046	chicken		1.0845	1363	motor sports	811 kg/s	992	733	boxing	1.496	0.6618	1147	0.902
+5	448 m^3	0.9614	guinea pig	Games and Playable Media, Electrical Engineering, Technology and Information Management, Biotechnology	0.4702	1050	soccer	124 kg/s	828	1053	badminton	0.4212	1.0594	697	1.2571
+1	847 m^3	1.0527	pig	Data Science	-0.0703	404	track & field	1109 kg/s	1007	810	soccer	1.0522	0.6142	45	0.646
+1	614 m^3	1.1492	dog	Data Science	0.3668	397	track & field	1130 kg/s	940	1306	soccer	1.2799	0.8271	415	0.4852
+5	1070 m^3	0.7894	guinea pig	Biotechnology	1.5469	488	soccer	-311 kg/s	681	848	track & field, golf, ice hockey	0.4379	1.3321	833	0.7966
+0	836 m^3	0.4711	fish	Computational Media	0.5376	1394	golf	1431 kg/s	926	-113	basketball	0.5772	0.3942	626	0.9499
+4	358 m^3	0.9118	reptile	Computer Engineering, Bioengineering	0.9055	-59	ice hockey	465 kg/s	849	955	tennis	0.8877	-0.1196	459	0.6478
+1	941 m^3	0.801	pig	Data Science	0.3381	353	basketball	852 kg/s	1000	1018	soccer	1.0484	0.874	537	0.3494
+1	968 m^3	1.0422	pig	Data Science	0.4103	891	track & field	712 kg/s	923	773	soccer	0.6798	0.5256	255	0.4691
+5	881 m^3	0.7717	guinea pig	Technology and Information Management	0.5611	1146	soccer	-146 kg/s	871	1202	badminton, track & field, golf	0.5263	?	544	0.5343
+1	660 m^3	0.8856	bird	Data Science	-0.0284	625	track & field	543 kg/s	694	1372	soccer	0.608	0.6266	87	0.5212
+2	961 m^3	0.0468	ferret	computer game design	0.6811	NULL	badminton	944 kg/s	409	607	running, baseball	-0.2447	0.6736	791	0.8621
+0	986 m^3	0.3883	rabbit	Bioinformatics	0.884	658	golf	854 kg/s	758	555	basketball	1.153	0.1488	908	0.6357
+3	692 m^3	0.3704	chicken	Applied Mathematics	1.2141	783	motor sports	1060 kg/s	1169	1443	motor sports, boxing	0.8313	0.6707	1111	0.8751
+5	781 m^3	1.0023	hamster	Robotics Engineering, Technology and Information Management	1.3352	728	tennis	163 kg/s	1467	1217	ice hockey	0.3587	1.2535	464	1.164
+3	365 m^3	0.2584	chicken	Natural Language Processing	0.4879	926	Motor Sports	1259 kg/s	907	1226	boxing	1.5505	0.9241	816	0.9435
+2	607 m^3	0.1731	ferret	Computer Game Design	0.4088	1180	badminton	1287 kg/s	347	512	running, volleyball	0.3201	0.3096	564	0.9735
+0	1269 m^3	n/a	fish	Statistics, Computational Media	0.8047	1024	volleyball	1281 kg/s	765	707	basketball	1.131	0.442	686	1.0287
+3	5 m^3	0.8891	chicken	Human Computer Interaction	0.2881	885	motor sports	836 kg/s	1166	1134	boxing	1.2015	0.9827	1010	0.6667
+2	1063 m^3	-0.1671	ferret	Computer Game Design	0.5983	279	baseball	649 kg/s	-15	45	motor sports, boxing	-0.2182	0.6526	721	0.6206
+3	691 m^3	0.0959	chicken	human computer interaction	0.9613	979	motor sports	1213 kg/s	1171	1595	soccer	1.0748	0.9497	1082	1.0123
+1	1219 m^3	1.1015	dog	Data Science	0.6552	947	basketball	754 kg/s	1113	740	soccer	0.9673	0.6446	2	0.3393
+0	1034 m^3	0.6883	fish	Statistics	0.3167	1036	golf	486 kg/s	1599	-104	volleyball, baseball	0.9434	0.183	736	1.0442
+5	895 m^3	0.9254	guinea pig	Biotechnology, Technology and Information Management	1.3639	666	running	-102 kg/s	824	1029	track & field, golf	0.5178	1.1711	1273	0.8289
+4	128 m^3	1.1572	bird	Computer Engineering, Bioengineering, Applied Mathematics	1.3986	217	ice hockey	392 kg/s	996	884	tennis	0.7116	-0.1449	387	0.5575
+3	407 m^3	0.0795	chicken	Natural Language Processing	1.1258	1359	motor sports	940 kg/s	891	979	football	1.1075	1.0355	734	0.9019
+4	159 m^3	1.281	bird	Applied Mathematics, Computer Science, Computer Engineering	0.9142	85	ice hockey	721 kg/s	1029	543	tennis	0.6354	-0.0826	435	0.5021
+2	953 m^3	0.1439	ferret	Computer Game Design	0.8418	1350	ice hockey	774 kg/s	153	499	baseball	-0.073	0.7366	632	1.2238
+1	809 m^3	0.7377	dog	Data Science	1.0345	301	track & field	226 kg/s	637	823	soccer	1.1665	0.6284	23	0.3358
+1	1024 m^3	0.6465	PIG	Data Science	0.4239	41	boxing	1191 kg/s	885	814	soccer	1.1933	0.7529	143	0.5109
+3	615 m^3	0.0667	chicken	Human Computer Interaction	0.5533	851	motor sports	833 kg/s	1177	914	motor sports	0.8089	1.281	974	1.6786
+3	222 m^3	0.459	chicken	Human Computer Interaction	1.1094	1037	MOTOR SPORTS	765 kg/s	805	767	boxing	1.2516	1.1454	1149	0.8197
+5	589 m^3	0.1741	rat	Robotics Engineering, Biotechnology	1.339	1010	running	277 kg/s	1457		track & field, badminton, golf	0.7501	0.5642	1079	1.1301
+0	1350 m^3	0.4635	fish	Bioinformatics	1.3353	1043	volleyball	988 kg/s	908	360	soccer	0.6116	0.3017	740	1.2182
+3	310 m^3	0.42	chicken	Natural Language Processing	1.0428	1203	motor sports	1056 kg/s	1360	759	boxing, football	1.1913	0.9075	1192	0.9252
+2	1175 m^3	0.1464	ferret	Computer Game Design	1.2297	1382	baseball	842 kg/s	528	-187	volleyball	-0.0198	0.5636	591	1.2297
+0	814 m^3	0.6171	cat	Bioinformatics	0.4781	1285	volleyball	754 kg/s	765	311	basketball	0.892	0.709	719	1.1057
+3	171 m^3	-0.0429	chicken	Human Computer Interaction	0.9066	783	motor sports	1037 kg/s	700	767	motor sports, boxing	0.3207	0.8554	783	1.1178
+1	956 m^3	0.9015	PIG	Data Science	0.1043	420	boxing	1014 kg/s	964	427	soccer	0.5839	0.6513	32	0.1745
+1	423 m^3	0.9042	pig	Data Science	0.7966	803	boxing	843 kg/s	897	1157	soccer	0.9671	0.3813	356	0.1664
+1	?	0.7522	dog	Data Science	0.1614	785	basketball	555 kg/s	712	930	soccer	1.0617	0.5795	67	0.3112
+4	238 m^3	1.1746	reptile	Computer Engineering, Applied Mathematics	1.32	169	running	147 kg/s	1273	754	tennis	0.7244	0.359	726	0.6196
+0	947 m^3	0.3732	rabbit	Computational Media, Bioinformatics	0.1594	895	volleyball	616 kg/s	906	-22	basketball	0.7095	0.1533	996	0.9179
+5	527 m^3	0.5517	hamster	Technology and Information Management, Robotics Engineering, Electrical Engineering	1.7314	613	soccer	131 kg/s	910	1086	ice hockey	0.2085	1.0861	760	1.0741
+4	-50 m^3	1.3108	bird	Applied Mathematics	0.8128	93	ice hockey	871 kg/s	1009	898	tennis	1.3501	-0.0012	445	0.7268
+0	811 m^3	0.4442	cat	Computational Media	1.0452	1047	motor sports	1022 kg/s	579	-47	basketball	0.8977	0.1865	421	0.7093
+4	303 m^3	0.8997	bird	Computer Science, Applied Mathematics	0.7335	318	ice hockey	191 kg/s	643	1064	tennis	1.0253	0.1432	422	0.7639
+2	NULL	0.3677	ferret	Computer Game Design	0.8941	832	badminton	803 kg/s	897	-160	running	0.051	0.449	416	0.8125
+2	1420 m^3	-0.0418	ferret	Computer Game Design	1.5239	1470	baseball	563 kg/s	403	437	running, volleyball	0.1045	1.0177	572	0.6839
+3	634 m^3	-0.0394	chicken	Natural Language Processing	0.8677	456	motor sports	1207 kg/s	781	1118	motor sports	0.9024	0.7959	1307	0.6219
+3	410 m^3	0.4398	chicken	Human Computer Interaction	0.8143	500	motor sports	1097 kg/s	436	1288	boxing, football	0.8977	0.5404	760	1.4207
+5	838 m^3	0.8559	rat	Robotics Engineering, Technology and Information Management, Electrical Engineering, Biotechnology	0.7523	942	running	-187 kg/s	915	1275	badminton	0.3625	1.0809	821	1.0436
+2	925 m^3	-0.0594	ferret	Computer Game Design	0.8817	1323	baseball	1420 kg/s	124	422	running	0.3544	0.6454	856	1.1085
+1	764 m^3	1.2548	dog	Data Science	-0.002	622	track & field	675 kg/s	904	772	soccer	1.327	0.6882	380	0.1286
+3	294 m^3	0.0251	chicken	Natural Language Processing	1.0113	934	motor sports	1216 kg/s	845	1249	motor sports, boxing	0.9926	0.7756	778	0.9454
+5	847 m^3	0.6565	rat	Electrical Engineering, Biotechnology, Robotics Engineering	1.3477	886	running	-574 kg/s	842	877	track & field, badminton	0.3227	0.6952	N/A	0.9018
+2	N/A	0.1411	ferret	Computer Game Design	1.2095	1095	baseball	879 kg/s	312	86	running, baseball	0.1085	0.566	596	1.6081
+4	211 m^3	1.1797	bird	Computer Science, Computer Engineering, Applied Mathematics	0.2978	552	ice hockey	466 kg/s	758	791	tennis	1.0604	0.3073	804	1.1677
+0	809 m^3	0.94	fish	Bioinformatics, Statistics	0.5547	744	golf	665 kg/s	875	527	basketball	0.8338	0.2901	840	0.9155
+3	775 m^3	0.6546	Chicken	Natural Language Processing	1.2888	944	soccer	728 kg/s	793	821	motor sports	0.8595	1.264	980	1.0172
+4	362 m^3	0.8824	reptile	Computer Engineering, Bioengineering, Applied Mathematics	0.9278	246	ice hockey	820 kg/s	?	776	baseball, volleyball	1.1599	-0.0818	250	1.0607
+2	611 m^3	0.2135	ferret	Data Science	0.572	1103	motor sports	697 kg/s	534	473	baseball, running	0.5469	0.8422	463	
+2	740 m^3	0.0735	guinea pig	Computer Game Design	0.7255	1302	baseball	1035 kg/s	-31	311	baseball, volleyball	-0.0645	0.7836	295	0.6071
+2	847 m^3	-0.0265	ferret	Computer Game Design	1.0501	806	badminton	924 kg/s	545	988	baseball, volleyball	0.4005	0.9352	1116	0.8646
+1	1189 m^3	0.7995	pig	Data Science	0.3178	718	basketball	716 kg/s	560	816	soccer	0.6963	0.4617	352	0.2806
+1	923 m^3	0.8542	dog	Data Science	-0.0248	74	basketball	985 kg/s	963	937	soccer	0.6857	0.4226	346	-0.0583
+5	726 m^3	0.8316	hamster	Robotics Engineering, Electrical Engineering, Games and Playable Media, Biotechnology	1.3182	640	tennis	-184 kg/s	1132	1250	track & field, ice hockey, golf	0.5389	0.9046	901	1.4548
+4	304 m^3	1.0602	reptile	Bioengineering	0.7212	-172	ice hockey	698 kg/s	933	1081	tennis	1.2859	0.4124	283	0.7654
+3	418 m^3	0.1782	chicken	Natural Language Processing	0.8086	946	motor sports	656 kg/s	521	713	motor sports	1.0011	1.0099	1225	0.7984
+2	861 m^3	0.1449	ferret	Computer Game Design	0.8363	1156	baseball	807 kg/s	605	328	running, volleyball	-0.0618	1.1453	1321	0.9818
+4	144 m^3	1.2285	reptile	Computer Science, Computer Engineering	0.6066	22	ice hockey	155 kg/s	1403	1299	tennis	1.243	-0.082	766	0.3141
+0	1092 m^3	0.5583	Fish	Computational Media	0.7661	1124		1114 kg/s	624	-18	basketball	0.9987	-0.0208	689	0.9444
+5	1166 m^3	0.6865	hamster	Robotics Engineering, Electrical Engineering, Technology and Information Management, Games and Playable Media	0.8458	684	running	5 kg/s	877	1173	track & field, golf	0.4959	0.8921	1055	1.1878
+1	722 m^3	1.2476	dog	Computational Media, Bioinformatics	0.9516	666	boxing	814 kg/s	963	783	soccer	1.4618	0.5432	495	-0.0998
+1	743 m^3	1.1716	dog	Data Science	-0.1982	336	ice hockey	529 kg/s	1030	666	soccer	0.4857	0.9688	219	-0.1602
+5	447 m^3	0.4199	rat	Technology and Information Management, Games and Playable Media	0.6684	598	running	85 kg/s	1115	906	badminton	0.4504	1.0332	1134	0.9037
+4	127 m^3	1.2126	reptile	Bioengineering	0.0748	402	ice hockey	927 kg/s	964	1251	TENNIS	0.918	-0.5707	294	0.7173
+0	1178 m^3	0.3104	rabbit	Statistics	0.4486	576	volleyball	832 kg/s	669	110	basketball	1.1005	0.9506	688	1.0595
+3	107 m^3	0.2202	chicken	Natural Language Processing	1.0532	1078	motor sports	1216 kg/s	1186	370	motor sports, football	1.1545	0.5692	471	0.6558
+2	1258 m^3	0.4331	ferret	Computer Game Design	1.1791	1040	badminton	1123 kg/s	842	248	running	0.4421	0.9057	608	0.5742
+0	720 m^3	0.5456	rabbit	Computational Media, Bioinformatics	0.6222	799	golf	1074 kg/s	1188	-96	basketball	0.2737	0.5067	429	1.0966
+3	571 m^3	0.4062	chicken	Natural Language Processing	1.4594	1393	motor sports	929 kg/s	1501	1095	boxing	1.1182	1.1207	746	1.08
+2	856 m^3	0.1184	ferret	Computer Game Design	0.9403	860	baseball	626 kg/s	-40	745	running, volleyball	0.3363	1.117	588	1.104
+3	481 m^3	0.4074	chicken	Human Computer Interaction	0.5719	1024	motor sports	1174 kg/s	1266	1036	motor sports, football	0.782	0.9167	797	0.5901
+0	1208 m^3	0.4361	cat	Computational Media, Bioinformatics	0.9692	689	golf	882 kg/s	697	-93	basketball	0.9841	0.1505	353	0.7658
+2	1230 m^3	-0.0088	ferret	Computer Game Design	0.7355	1294	badminton	977 kg/s	189	455	baseball	0.4267	0.696	936	0.3768
+4	-173 m^3	1.0989	bird	Computer Engineering	1.1857	381	ice hockey	423 kg/s	1172	847	tennis	0.499	-0.0236	547	0.7845
+2	855 m^3	-0.1595	ferret	Computer Game Design	1.0767	929	baseball	1350 kg/s	786	955	baseball	-0.0501	1.0103	318	0.8288
+4	320 m^3	1.0399	bird	Computer Science	0.9611	241	ice hockey	520 kg/s	1006	604	tennis	0.9196	-0.0007	778	0.8975
+0	951 m^3	0.3096	rabbit	Computational Media	0.8855	742	golf	882 kg/s	1338	-505	basketball	0.986	0.5389	484	1.2077
+5	570 m^3	0.9125	fish	technology and information management	1.6435	750	running	170 kg/s	1401	1234	track & field, badminton	0.7155	0.8145	569	0.7384
+5	895 m^3	0.8079	rat	Biotechnology, Technology and Information Management, Electrical Engineering, Robotics Engineering	0.3389	778	soccer	72 kg/s	1116	958	golf, badminton, track & field	0.2714	0.7276	812	1.2402
+1	916 m^3	0.5835	chicken	Data Science	0.5855	312	boxing	856 kg/s	687	1274	SOCCER	0.7826	0.5198	249	-0.1198
+2	995 m^3	-0.1352	chicken	Computer Game Design	1.2078	1049	badminton	1159 kg/s	12	31	running, baseball	0.3819	0.6277	694	1.2169
+4	-149 m^3	0.7029	reptile	bIOENGINEERING	0.4773	-125	ice hockey	1020 kg/s	462	760	tennis	0.5425	-0.098	837	0.5039
+4	-124 m^3	1.3744	reptile	Bioengineering, Computer Engineering, Applied Mathematics	0.4231	340	ice hockey	572 kg/s	1055	892	tennis	1.1853	-0.0447	631	1.0505
+5	970 m^3	0.9901	ferret	Robotics Engineering, Electrical Engineering, Biotechnology, Games and Playable Media	N/A	643	ice hockey	464 kg/s	327	1603	badminton	0.4672	0.7145	933	0.8432
+0	1010 m^3	0.5938	cat	Statistics, Bioinformatics	0.7354	580	volleyball	892 kg/s	672	517	basketball	1.0455	0.406	828	1.0968
+0	1169 m^3	0.5961	dog	Bioinformatics	0.8279	790	volleyball	1307 kg/s	513	-162	basketball	1.2266	0.4451	441	0.6687
+3	105 m^3	0.3748	chicken	Natural Language Processing	0.6841	1230	motor sports	732 kg/s	1008	966	motor sports	0.9836	0.5022	1158	1.3462
+2	736 m^3	0.1546	ferret	Computer Game Design	1.0529	736	baseball	1027 kg/s	13	-60	volleyball	-0.2308	0.6748	655	1.2965
+0	943 m^3	0.5751	rabbit	Computer Game Design	0.7934	1307	track & field	1312 kg/s	1177	-165	basketball	1.1682	0.1662	929	0.9223
+4	127 m^3	1.1379	bird	Bioengineering	1.3822	-236	ice hockey	116 kg/s	815	1805	tennis	0.7759	0.4141	663	0.6435
+0	1185 m^3	0.3626	cat	Bioinformatics	0.9996	615	golf	1007 kg/s	1197	150	basketball	1.095	0.6724	698	1.2599
+2	986 m^3	0.3605	ferret	Computer Game Design	0.6429	1053	badminton	628 kg/s	104	790	volleyball	-0.3117	1.0044	685	0.8696
+1	909 m^3	1.0128	n/a	Technology and Information Management, Electrical Engineering, Robotics Engineering, Games and Playable Media	-0.0344	859	boxing	545 kg/s	417	299	soccer	0.543	0.1279	NULL	0.235
+3	663 m^3	0.6961	chicken	Natural Language Processing	1.3676	1133	motor sports	927 kg/s	798	830	boxing, motor sports	1.4753	0.7849	1071	0.3581
+5	693 m^3	0.8719	hamster	Games and Playable Media, Technology and Information Management, Electrical Engineering, Robotics Engineering	0.5511	691	motor sports	146 kg/s	1494	1102	golf, ice hockey, track & field	0.552	1.0622	1012	1.1648
+3	253 m^3	0.4587	chicken	Human Computer Interaction	0.746	974	motor sports	1308 kg/s	337	915	boxing, football	1.0871	0.8369	889	1.1877
+2	1421 m^3	-0.0439	ferret	Computer Game Design	1.7677	659	running	1469 kg/s	169	357	running	-0.4006	0.7539	444	0.8387
+0	1240 m^3	0.4226	chicken	Statistics, Bioinformatics	0.4304	886	golf	730 kg/s	919	62	basketball	1.1022	0.6888	399	1.4059
+1	836 m^3	1.3092	dog	Data Science	0.3273	858	basketball	1427 kg/s	1482	1173	SOCCER	0.942	0.3019	-185	0.1468
+4	369 m^3	0.8185	bird	Bioengineering, Applied Mathematics	1.3329	206	ice hockey	974 kg/s	1073	1005	tennis	0.8799	-0.0637	651	0.2148
+5	617 m^3	0.4806	hamster	Games and Playable Media	0.8871	555	football	-319 kg/s	516	1150	badminton, track & field, golf	0.5846	0.5728	1083	1.3954
+3	244 m^3	0.2309	chicken	n/a	0.821	903	motor sports	1239 kg/s	706	1192	football	1.2494	0.554	883	0.5481
+3	175 m^3	0.3712	chicken	Natural Language Processing	1.0805	1371	motor sports	922 kg/s	858	1161	tennis	1.2745	1.0227	711	0.4792
+4	447 m^3	1.0689	reptile	Bioengineering, Computer Science	0.7671	27	ice hockey	226 kg/s	1032	1229	TENNIS	1.0474	0.1959	824	0.8206
+0	949 m^3	0.5777	cat	Statistics, Bioinformatics	0.368	1047	volleyball	918 kg/s	932	-25	basketball	0.8717	0.9285	368	1.1821
+5	1053 m^3	0.9059	guinea pig	Biotechnology, Robotics Engineering, Electrical Engineering, Games and Playable Media	0.8325	888	football	172 kg/s	536	841	badminton	0.5388	1.0062	799	0.8436
+4	-59 m^3	1.0363	reptile	Computational Media, Bioinformatics	1.2201	214	ice hockey	340 kg/s	None	462	tennis	0.7389	0.2483	913	0.8944
+5	856 m^3	0.8477	guinea pig	Biotechnology	1.5611	753	tennis	-33 kg/s	1009	1252	golf	0.1351	0.8127	1386	0.6107
+4	-98 m^3	0.8488	bird	Bioengineering, Computer Engineering, Applied Mathematics	0.5015	227	ice hockey	559 kg/s	407	842	tennis	1.0339	-0.0624	788	1.0699
+2	1413 m^3	0.2279	ferret	Computer Game Design	0.5059	1032	badminton	980 kg/s	519	203	basketball	0.4447	0.6481	1109	0.9727
+2	1178 m^3	0.573	ferret	Computer Game Design	0.9599	1023	motor sports	1124 kg/s	567	767	running, baseball	0.2671	0.7604	1379	0.4507
+2	1013 m^3	0.0805	ferret	Computer Game Design	0.9325	1266	baseball	1294 kg/s	-181	553	baseball	-0.1235	0.9634	474	1.1289
+5	600 m^3	0.9723	hamster	Games and Playable Media	0.9338	1014	football	-25 kg/s	644	1461	track & field, ice hockey, golf	0.354	0.8928	961	0.9644
+3	136 m^3	0.4877	chicken	Natural Language Processing	0.4183	742	motor sports	1161 kg/s	633	750	Tennis	1.013	0.8179	892	0.5374
+2	1140 m^3	0.193	chicken	Computer Game Design	0.9415	724	badminton	701 kg/s	14	-213	baseball, volleyball	0.282	0.7199	363	0.7338
+1	1223 m^3	0.808	pig	Data Science	0.4299	1170	track & field	1219 kg/s	1003	664	soccer	1.324	1.1046	299	0.3446
+4	-24 m^3	0.8471	reptile	Applied Mathematics, Computer Engineering, Bioengineering	0.6364	275	ice hockey	242 kg/s	1157	763	tennis	1.4371	0.0716	275	0.6855
+2	1003 m^3	-0.0279	fish	Computer Game Design	0.5209	1133	baseball	383 kg/s	574		running, volleyball	-0.058	0.9585	1186	1.2078
+5	463 m^3	0.893	RAT	Robotics Engineering, Electrical Engineering, Biotechnology	0.7788	579	running	-254 kg/s	1560	1342	badminton	0.485	1.0064	957	0.6275
+2	1101 m^3	0.1593	ferret	Computer Game Design	0.7997	967	badminton	988 kg/s	269	546	running, volleyball	0.4701	0.8695	1244	0.8816
+1	1075 m^3	0.5309	pig	Data Science	0.2764	298	basketball	953 kg/s	809	57	soccer	1.1238	0.6103	25	0.2846
+1	802 m^3	1.293	dog	Data Science	0.442	354	boxing	1095 kg/s	1213	826	soccer	1.276	0.4297	469	0.2632
+0	998 m^3	NULL	fish	Bioinformatics	0.2844	1225	volleyball	1304 kg/s	1069	499	basketball	0.5259	0.2437	854	1.0244
+3	613 m^3	0.3005	chicken	Human Computer Interaction	1.102	1706	boxing	1341 kg/s	1018	NULL	boxing, motor sports	1.0008	0.9115	528	0.9131
+1	1102 m^3	1.238	pig	Human Computer Interaction	-0.2535	452	motor sports	865 kg/s	789	727	tennis	0.8576	0.6301	221	-0.3775
+1	805 m^3	1.2125	BIRD	Data Science	0.5483	80	basketball	811 kg/s	1209	847	soccer	0.9315	1.0402	63	0.1643
+0	990 m^3	0.6978	rabbit	Statistics, Computational Media	0.5306	1202	volleyball	881 kg/s	1059	33	basketball	1.0286	-0.2775	355	None
+2	654 m^3	0.0152	ferret	computer game design	0.4774	739	badminton	1058 kg/s	234	252	baseball	-0.1901	0.4234	673	0.934
+4	-182 m^3	0.6802	bird	Computer Engineering, Computer Science, Applied Mathematics	0.6336	-92	ice hockey	465 kg/s	841	1331	tennis	0.6018	-0.2863	696	0.6968
+5	595 m^3	0.5588	guinea pig	Games and Playable Media, Robotics Engineering	1.194	784	tennis	124 kg/s	748	453	track & field, ice hockey	0.302	0.6243	1398	1.0151
+4	-32 m^3	0.6029	reptile	Computer Engineering, Applied Mathematics	0.8589	99	ice hockey	-148 kg/s	1068	1207	tennis	1.6393	-0.4915	505	1.0648
+2	1134 m^3	0.3218	ferret	Computer Game Design	1.2754	816	badminton	824 kg/s	192	-346	volleyball, baseball	-0.4963	0.6758	480	0.827
+3	-122 m^3	0.5066	chicken	Natural Language Processing	0.8765	1515	motor sports	689 kg/s	975	1294	football, motor sports	1.4862	0.7931	981	1.5035
+3	176 m^3	0.4562	chicken	Natural Language Processing	1.3783	1187	motor sports	964 kg/s	1187	1487	football	0.6059	1.1871	1357	1.1076
+1	949 m^3	1.3415	PIG	Data Science	-0.0119	492	basketball	893 kg/s	1047	1260	soccer	1.3454	0.8783	60	0.2594
+4	356 m^3	1.1236	bird	Bioengineering, Applied Mathematics	1.1137	249	ice hockey	379 kg/s	696	927	tennis	0.8561	0.0061	651	0.9064
+2	1007 m^3	-0.0417	ferret	Computer Game Design	0.5473	1730	?	954 kg/s	211	260	volleyball	0.0063	0.7574	475	1.1677
+1	980 m^3	0.625	pig	Data Science	0.1293	N/A	basketball	1225 kg/s	885	550	soccer	0.8371	0.5047	379	0.1209
+2	975 m^3	0.3414	ferret	Computer Game Design	0.5174	1065	ice hockey	1459 kg/s	1095	268	baseball, volleyball	-0.2373	0.6918	596	0.7775
+4	-87 m^3	0.8703	reptile	Bioengineering	1.1545	339	ice hockey	3 kg/s	1169	838	tennis	1.2965	-0.1146	422	0.175
+0	1147 m^3	0.8721	rabbit	Computer Engineering	0.969	932	golf	1398 kg/s	1296	349	basketball	0.618	0.114	662	?
+0	1143 m^3	0.3017	fish	Computational Media	0.8728	711	volleyball	1023 kg/s	849	-165	BASKETBALL	1.1555	0.1287	611	0.6305
+1	1140 m^3	0.9118	dog	Data Science	0.7172	615	basketball	630 kg/s	1216	886	soccer	1.2357	0.5901	53	0.3539
+4	-254 m^3	0.6147	reptile	Computer Engineering, Applied Mathematics, Computer Science	0.8045	598	ice hockey	810 kg/s	656	777	volleyball	1.1515	0.3886	742	1.3167
+3	435 m^3	0.5252	chicken	Human Computer Interaction	0.3741	814	motor sports	1640 kg/s	1323	772	boxing, motor sports	1.2507	0.7606	1332	1.2181
+3	163 m^3	0.3467	reptile	Natural Language Processing	1.4556	1217	motor sports	1149 kg/s	?	1160	motor sports	0.97	1.2122	1223	0.4139
+0	1445 m^3	0.2773	rabbit	Bioinformatics	0.4722	1020	volleyball	793 kg/s	1377	736	basketball	1.2256	0.3683	720	0.7424
+2	870 m^3	-0.007	ferret	Technology and Information Management, Robotics Engineering, Biotechnology, Electrical Engineering	0.8082	763	volleyball	1312 kg/s	1049	774	running	0.129	0.6588	474	0.6923
+5	973 m^3	0.8902	rat	Biotechnology, Electrical Engineering	1.3014	1009	tennis	203 kg/s	326	868	track & field, badminton	0.7576	0.6619	938	1.2348
+2	1229 m^3	0.3686	ferret	Computer Game Design	0.9937	1112	badminton	815 kg/s	853	246	baseball	0.5164	0.6045	824	1.261
+0	783 m^3	0.5599	cat	Bioinformatics, Computational Media	0.899	393	volleyball	950 kg/s	672	160	basketball	1.1579	0.0968	1052	1.8632
+1	1610 m^3	0.9755	pig	Data Science	-0.183	831	football	986 kg/s	1064	656	soccer	0.8813	0.4479	367	0.5773
+0	1072 m^3	0.5075	fish	Bioinformatics	0.8202	1011	volleyball	909 kg/s	1462	484	basketball	0.7573	0.5185	680	0.9407
+1	1287 m^3	0.7376	pig	Data Science	0.2304	827	basketball	995 kg/s	1074	642	soccer	0.8684	1.0011	235	0.3657
+0	715 m^3	0.5479	rabbit	Statistics	0.9124	1036	golf	1197 kg/s	891	589	volleyball, baseball	0.8474	0.6698	418	0.8222
+2	1030 m^3	0.434	ferret	Computer Game Design	1.3423	1014	badminton	1350 kg/s	130	441	baseball, running	0.348	0.6241	921	0.5716
+1	768 m^3	1.1615	pig	Data Science	0.1644	448	track & field	765 kg/s	1098	732	soccer	0.7384	0.5191	90	0.3723
+3	377 m^3	0.8346	chicken	Natural Language Processing	1.0573	1315	motor sports	1360 kg/s	770	850	football	1.2604	0.9615	785	0.7691
+2	1301 m^3	0.1901	ferret	Computer Game Design	1.2113	1256	badminton	1169 kg/s	276	108	baseball, running		1.0786	783	0.7487
+5	742 m^3	0.8022	guinea pig	Games and Playable Media, Robotics Engineering, Technology and Information Management, Electrical Engineering	1.3771	1033	running	97 kg/s	1090	808	ice hockey, track & field, badminton	0.1936	0.8488	1272	0.9466
+2	868 m^3	-0.2488	ferret	Computer Game Design	0.7605	1072	baseball	1037 kg/s	154	827	running, volleyball	0.2939	0.8921	687	1.3735
+5	414 m^3	0.9819	rat	Games and Playable Media	0.6981	736	tennis	499 kg/s	1516	1054	ice hockey, track & field, badminton	-0.0134	1.2277	1025	1.3603
+0	850 m^3	0.5219	cat	Bioinformatics, Statistics	0.7423	1270	golf	870 kg/s	485	384	basketball	0.7692	0.4966	611	0.4469
+1	1094 m^3	1.114	pig	Data Science	0.0618	88	basketball	920 kg/s	1005	182	soccer	0.9716	0.7471	493	0.5025
+1	993 m^3	1.0296	dog	Data Science	-0.0765	513	boxing	770 kg/s	667	939	soccer	0.7402	0.7034	171	-0.099
+0	687 m^3	0.1891	rabbit	Bioinformatics	0.248	767	volleyball	1602 kg/s	875	309	basketball	0.9559	0.144	564	1.1184
+2	955 m^3	0.3226	ferret	Computer Game Design	1.3164	753	baseball	772 kg/s	678	205	baseball	-0.0311	0.8718	702	1.2741
+1	824 m^3	1.2461	dog	Data Science	0.4233	656	boxing	836 kg/s	1105	669	soccer	0.9047	0.8239	468	0.0861
+3	99 m^3	0.0879	chicken	Natural Language Processing	0.8205	1122	motor sports	1134 kg/s	?	897	motor sports, football	0.895	1.101	669	0.8721
+2	1127 m^3	-0.3402	ferret	Computer Game Design	1.0594	229	badminton	1014 kg/s	674	263	baseball, running	-0.1668	0.651	1341	1.2911
+1	1292 m^3	1.086	pig	Data Science	0.6402	411	basketball	676 kg/s	717	1433	soccer	1.079	0.7632	337	0.3204
+1	1021 m^3	1.5905	bird	Data Science	0.4153	656	basketball	539 kg/s	776	841	soccer	0.6297	0.4157	281	0.675
+0	1024 m^3	0.8932	rabbit	Statistics	0.4999	696	volleyball	911 kg/s	1016	-274	BASKETBALL	1.2587	0.3329	660	1.0203
+0	1083 m^3	0.0605	rabbit	Bioinformatics, Computational Media	0.6769	988	golf	1229 kg/s	1125	5	basketball	0.7835	0.2055	859	1.018
+2	877 m^3	?	ferret	Computer Game Design	1.0818	962	badminton	905 kg/s	749	491	running	0.23	0.865	662	1.3868
+4	31 m^3	1.3183	REPTILE	Applied Mathematics	0.8355	317	boxing	674 kg/s	n/a	1203	tennis	1.2262	0.0937	593	0.9073
+2	1064 m^3	-0.1156	ferret	Computer Game Design	0.9587	1157	baseball	915 kg/s	1008	250	running	0.3264	0.7497	550	0.6965
+0	1244 m^3	0.3665	fish	Bioinformatics, Statistics	1.0844	1044	volleyball	1023 kg/s	1389	181	basketball	1.013	-0.0733	475	1.0991
+4	289 m^3	0.8537	bird	Computer Science, Bioengineering, Applied Mathematics	1.204	85	motor sports	104 kg/s	714	1297	soccer	0.9624	-0.1002	709	0.3396
+2	829 m^3	0.3441	ferret	Computer Game Design	0.825	1466	ice hockey	1262 kg/s	486	737	running	0.2286	1.0906	598	0.486
+5	356 m^3	1.1078	guinea pig	Technology and Information Management, Electrical Engineering, Biotechnology, Games and Playable Media	1.09	1259	running	316 kg/s	685	263	golf	0.5203	0.8743	567	1.677
+0	1151 m^3	0.1309	rabbit	Computational Media, Bioinformatics	0.6001	1278	track & field	873 kg/s	1377	347	basketball	1.1071	0.1162	962	0.2806
+3	8 m^3	0.187	chicken	Human Computer Interaction	0.8308	909	motor sports	1067 kg/s	1244	1474	motor sports	0.9788	0.695	1051	1.3602
+5	426 m^3	0.8575	guinea pig	Electrical Engineering, Games and Playable Media	0.9682	1178	tennis	219 kg/s	893	857	ice hockey	0.5726	1.0757	561	1.2851
+0	1067 m^3	0.7643	cat	Bioinformatics, Computational Media	0.4682	1256	golf	778 kg/s	926	313	basketball	0.7529	0.2968	711	1.5728
+4	357 m^3	1.1224	reptile	Applied Mathematics	0.6487	-19	ice hockey	313 kg/s	1091	1225	tennis	1.004	-0.2227	420	1.2063
+3	194 m^3	0.8737	chicken	Natural Language Processing	1.092	721	motor sports	1300 kg/s	1674	605	motor sports, boxing	1.2328	1.1933	829	0.907
+0	846 m^3	0.7389	rabbit	Computational Media	0.836	848	volleyball	934 kg/s	1066	134	BASKETBALL	0.7369	0.3738	742	0.7313
+4	-93 m^3	1.1209	bird	Computer Engineering, Bioengineering, Computer Science	1.0942	-167	ice hockey	-87 kg/s	746	1379	tennis	1.018	0.3428	476	0.8299
+4	103 m^3	1.021	bird	Computer Science, Applied Mathematics, Computer Engineering	0.7572	-244	ice hockey	570 kg/s	1149	1360	tennis	1.3184	0.0654	555	1.0518
+2	984 m^3	0.1491	ferret	Computer Game Design	1.7557	1336	baseball	973 kg/s	84	170	volleyball	0.2107	0.8857	706	0.8631
+3	187 m^3	0.5921	chicken	Human Computer Interaction	0.5796	1481	motor sports	878 kg/s	732	1190	motor sports	1.0219	0.8771	1010	0.9997
+2	1118 m^3	-0.0171	ferret	Computer Game Design	0.5653	830	badminton	949 kg/s	-378	839	running, baseball	-0.1059	0.8686	584	1.2964
+0	1220 m^3	0.8634	fish	BIOINFORMATICS	-0.1439	1353	volleyball	847 kg/s	1056	346	basketball	1.0406	0.4166	469	0.6315
+3	91 m^3	0.4085	chicken	Human Computer Interaction	0.835	866	baseball	1262 kg/s	1421	1289	football, boxing	1.602	0.6453	1004	0.8792
+2	1040 m^3	0.4315	ferret	Computer Game Design	1.6302	1186	baseball	1059 kg/s	581	245	VOLLEYBALL, RUNNING	0.4703	1.0809	934	0.8785
+3	333 m^3	0.0794	chicken	Human Computer Interaction	0.8882	1317	motor sports	1022 kg/s	45	1368	football, boxing	0.3981	0.9791	1177	0.5349
+2	1098 m^3	0.2961	ferret	Computer Game Design	1.4514	1525	badminton	738 kg/s	332	776	running, baseball	0.4372	0.8107	1030	1.461
+2	928 m^3	-0.0077	ferret	Computer Game Design	1.3161	1188	badminton	773 kg/s	-29	117	running	-0.3162	0.7626	1375	0.6648
+3	347 m^3	0.0674	chicken	Natural Language Processing	0.8543	683	motor sports	696 kg/s	656	1161	motor sports	0.8328	0.9355	912	0.5292
+4	299 m^3	0.8038	reptile	Computer Engineering	1.2768	151	motor sports	376 kg/s	1060	1466	tennis	0.839	-0.0104	379	0.7017
+0	840 m^3	0.5071	RABBIT	Computational Media	0.6684	1565	golf	1030 kg/s	819	348	basketball	0.4638	NULL	546	1.4004
+0	n/a	0.5347	cat	Computational Media, Statistics	0.74	701	volleyball	1014 kg/s		-108	basketball	0.9996	0.2866	481	0.8878
+5	804 m^3	1.0807	rat	Technology and Information Management, Games and Playable Media	1.0517	1568	tennis	-309 kg/s	643	621	golf, ice hockey	0.4413	0.9347	1259	0.9875
+4	34 m^3	0.8205	reptile	Bioengineering	1.2055	431	ice hockey	843 kg/s	1170	1442	tennis	0.9688	0.3956	347	0.8059
+0	815 m^3	0.6873	fish	Statistics, Computational Media	0.7707	851	golf	1129 kg/s	1033	554	basketball	0.964	0.362	846	1.0954
+1	1173 m^3	0.5848	dog	Data Science	-0.1426	709	track & field	1066 kg/s	495	1252	soccer	0.708	0.9962	22	0.2085
